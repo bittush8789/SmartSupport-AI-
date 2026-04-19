@@ -1,0 +1,1001 @@
+ticket_id,customer_id,issue_type,issue_description,priority,created_at,status
+TKT0001,CUST0191,Payment Issue,Description for issue 1...,Low,2026-03-23 02:36:52,In Progress
+TKT0002,CUST0109,Refund,Description for issue 2...,Urgent,2026-03-29 02:36:52,Closed
+TKT0003,CUST0812,Refund,Description for issue 3...,Low,2026-04-19 02:36:52,Closed
+TKT0004,CUST0733,Account Access,Description for issue 4...,Urgent,2026-04-10 02:36:52,Closed
+TKT0005,CUST0790,Shipping,Description for issue 5...,High,2026-04-05 02:36:52,In Progress
+TKT0006,CUST0909,Damaged Product,Description for issue 6...,Medium,2026-04-01 02:36:52,Resolved
+TKT0007,CUST0090,Account Access,Description for issue 7...,Urgent,2026-04-12 02:36:52,Resolved
+TKT0008,CUST0209,General Inquiry,Description for issue 8...,Medium,2026-03-31 02:36:52,Resolved
+TKT0009,CUST0878,Payment Issue,Description for issue 9...,Low,2026-03-23 02:36:52,Closed
+TKT0010,CUST0598,Shipping,Description for issue 10...,Low,2026-03-24 02:36:52,Open
+TKT0011,CUST0884,Refund,Description for issue 11...,Low,2026-03-27 02:36:52,Closed
+TKT0012,CUST0246,Refund,Description for issue 12...,High,2026-04-03 02:36:52,Open
+TKT0013,CUST0469,General Inquiry,Description for issue 13...,Low,2026-03-25 02:36:52,Closed
+TKT0014,CUST0734,Shipping,Description for issue 14...,Low,2026-04-02 02:36:52,Resolved
+TKT0015,CUST0763,Damaged Product,Description for issue 15...,Urgent,2026-03-23 02:36:52,In Progress
+TKT0016,CUST0308,Shipping,Description for issue 16...,Urgent,2026-04-08 02:36:52,In Progress
+TKT0017,CUST0530,Shipping,Description for issue 17...,Low,2026-03-28 02:36:52,In Progress
+TKT0018,CUST0739,Account Access,Description for issue 18...,Urgent,2026-03-21 02:36:52,Closed
+TKT0019,CUST0647,Damaged Product,Description for issue 19...,Low,2026-03-24 02:36:52,In Progress
+TKT0020,CUST0217,Account Access,Description for issue 20...,High,2026-04-07 02:36:52,Open
+TKT0021,CUST0901,General Inquiry,Description for issue 21...,Medium,2026-03-30 02:36:52,Resolved
+TKT0022,CUST0176,General Inquiry,Description for issue 22...,Medium,2026-04-07 02:36:52,Closed
+TKT0023,CUST0553,General Inquiry,Description for issue 23...,Medium,2026-04-10 02:36:52,Resolved
+TKT0024,CUST0977,Account Access,Description for issue 24...,High,2026-03-31 02:36:52,In Progress
+TKT0025,CUST0104,Payment Issue,Description for issue 25...,Urgent,2026-04-03 02:36:52,Resolved
+TKT0026,CUST0644,Damaged Product,Description for issue 26...,High,2026-03-22 02:36:52,Open
+TKT0027,CUST0415,Damaged Product,Description for issue 27...,High,2026-03-26 02:36:52,Closed
+TKT0028,CUST0756,General Inquiry,Description for issue 28...,High,2026-04-08 02:36:52,Resolved
+TKT0029,CUST0745,General Inquiry,Description for issue 29...,High,2026-03-21 02:36:52,Closed
+TKT0030,CUST0063,General Inquiry,Description for issue 30...,High,2026-04-07 02:36:52,Closed
+TKT0031,CUST0032,General Inquiry,Description for issue 31...,Low,2026-04-01 02:36:52,Open
+TKT0032,CUST1000,Payment Issue,Description for issue 32...,Urgent,2026-04-18 02:36:52,In Progress
+TKT0033,CUST0953,Refund,Description for issue 33...,High,2026-03-24 02:36:52,In Progress
+TKT0034,CUST0496,Payment Issue,Description for issue 34...,Urgent,2026-03-24 02:36:52,Closed
+TKT0035,CUST0692,Account Access,Description for issue 35...,Low,2026-04-03 02:36:52,Open
+TKT0036,CUST0217,Payment Issue,Description for issue 36...,Medium,2026-04-08 02:36:52,Open
+TKT0037,CUST0786,Account Access,Description for issue 37...,Medium,2026-03-30 02:36:52,Open
+TKT0038,CUST0859,Shipping,Description for issue 38...,Medium,2026-03-25 02:36:52,Resolved
+TKT0039,CUST0271,General Inquiry,Description for issue 39...,Low,2026-03-26 02:36:52,Resolved
+TKT0040,CUST0931,General Inquiry,Description for issue 40...,Urgent,2026-03-28 02:36:52,In Progress
+TKT0041,CUST0739,Shipping,Description for issue 41...,High,2026-04-06 02:36:52,In Progress
+TKT0042,CUST0865,General Inquiry,Description for issue 42...,Low,2026-03-24 02:36:52,Open
+TKT0043,CUST0305,Shipping,Description for issue 43...,Medium,2026-04-15 02:36:52,Closed
+TKT0044,CUST0287,Damaged Product,Description for issue 44...,Medium,2026-03-28 02:36:52,Resolved
+TKT0045,CUST0716,Account Access,Description for issue 45...,Urgent,2026-03-28 02:36:52,Open
+TKT0046,CUST0395,Account Access,Description for issue 46...,Medium,2026-04-01 02:36:52,Resolved
+TKT0047,CUST0342,Refund,Description for issue 47...,High,2026-04-07 02:36:52,Resolved
+TKT0048,CUST0387,Refund,Description for issue 48...,Medium,2026-04-11 02:36:52,Open
+TKT0049,CUST0946,Refund,Description for issue 49...,Medium,2026-04-01 02:36:52,Closed
+TKT0050,CUST0992,Account Access,Description for issue 50...,Low,2026-04-20 02:36:52,Resolved
+TKT0051,CUST0823,Shipping,Description for issue 51...,High,2026-04-05 02:36:52,Resolved
+TKT0052,CUST0563,Shipping,Description for issue 52...,Medium,2026-03-27 02:36:52,Closed
+TKT0053,CUST0166,Refund,Description for issue 53...,Urgent,2026-03-22 02:36:52,Resolved
+TKT0054,CUST0697,Account Access,Description for issue 54...,High,2026-03-21 02:36:52,Resolved
+TKT0055,CUST0500,Payment Issue,Description for issue 55...,Urgent,2026-03-26 02:36:52,In Progress
+TKT0056,CUST0429,Damaged Product,Description for issue 56...,Low,2026-04-15 02:36:52,Open
+TKT0057,CUST0835,Damaged Product,Description for issue 57...,High,2026-03-27 02:36:52,Resolved
+TKT0058,CUST0030,General Inquiry,Description for issue 58...,Urgent,2026-04-01 02:36:52,Closed
+TKT0059,CUST0333,Account Access,Description for issue 59...,Medium,2026-03-31 02:36:52,Closed
+TKT0060,CUST0870,Damaged Product,Description for issue 60...,High,2026-03-26 02:36:52,Resolved
+TKT0061,CUST0002,Shipping,Description for issue 61...,Urgent,2026-04-14 02:36:52,In Progress
+TKT0062,CUST0065,Shipping,Description for issue 62...,Medium,2026-03-22 02:36:52,Open
+TKT0063,CUST0149,Refund,Description for issue 63...,Medium,2026-03-24 02:36:52,Closed
+TKT0064,CUST0936,Damaged Product,Description for issue 64...,Low,2026-04-03 02:36:52,Closed
+TKT0065,CUST0804,Payment Issue,Description for issue 65...,Urgent,2026-04-18 02:36:52,In Progress
+TKT0066,CUST0491,General Inquiry,Description for issue 66...,High,2026-04-05 02:36:52,Closed
+TKT0067,CUST0608,Payment Issue,Description for issue 67...,Medium,2026-04-06 02:36:52,Resolved
+TKT0068,CUST0823,Shipping,Description for issue 68...,High,2026-03-28 02:36:52,In Progress
+TKT0069,CUST0588,Account Access,Description for issue 69...,Urgent,2026-04-02 02:36:52,Closed
+TKT0070,CUST0717,Refund,Description for issue 70...,Medium,2026-04-20 02:36:52,Closed
+TKT0071,CUST0924,Account Access,Description for issue 71...,Urgent,2026-04-08 02:36:52,Resolved
+TKT0072,CUST0705,Payment Issue,Description for issue 72...,High,2026-04-05 02:36:52,Resolved
+TKT0073,CUST0020,General Inquiry,Description for issue 73...,Medium,2026-04-19 02:36:52,Open
+TKT0074,CUST0804,Payment Issue,Description for issue 74...,Urgent,2026-04-19 02:36:52,In Progress
+TKT0075,CUST0144,Damaged Product,Description for issue 75...,Low,2026-04-12 02:36:52,Resolved
+TKT0076,CUST0800,Refund,Description for issue 76...,Urgent,2026-03-21 02:36:52,Resolved
+TKT0077,CUST0472,Damaged Product,Description for issue 77...,Medium,2026-03-24 02:36:52,Open
+TKT0078,CUST0697,Damaged Product,Description for issue 78...,Low,2026-04-06 02:36:52,Open
+TKT0079,CUST0264,General Inquiry,Description for issue 79...,Medium,2026-03-24 02:36:52,Resolved
+TKT0080,CUST0678,Refund,Description for issue 80...,Urgent,2026-04-14 02:36:52,Closed
+TKT0081,CUST0340,Shipping,Description for issue 81...,High,2026-04-11 02:36:52,In Progress
+TKT0082,CUST0231,Refund,Description for issue 82...,High,2026-04-13 02:36:52,In Progress
+TKT0083,CUST0438,Refund,Description for issue 83...,High,2026-04-11 02:36:52,Closed
+TKT0084,CUST0357,Account Access,Description for issue 84...,High,2026-04-17 02:36:52,In Progress
+TKT0085,CUST0812,Shipping,Description for issue 85...,Urgent,2026-04-10 02:36:52,Closed
+TKT0086,CUST0076,Damaged Product,Description for issue 86...,Low,2026-03-23 02:36:52,Closed
+TKT0087,CUST0039,Account Access,Description for issue 87...,Medium,2026-03-26 02:36:52,In Progress
+TKT0088,CUST0640,Payment Issue,Description for issue 88...,Low,2026-03-28 02:36:52,In Progress
+TKT0089,CUST0235,Damaged Product,Description for issue 89...,Urgent,2026-04-20 02:36:52,In Progress
+TKT0090,CUST0031,Payment Issue,Description for issue 90...,Urgent,2026-04-18 02:36:52,In Progress
+TKT0091,CUST0913,Shipping,Description for issue 91...,Medium,2026-03-31 02:36:52,Resolved
+TKT0092,CUST0466,General Inquiry,Description for issue 92...,Low,2026-03-23 02:36:52,Closed
+TKT0093,CUST0154,Damaged Product,Description for issue 93...,Low,2026-04-19 02:36:52,Open
+TKT0094,CUST0249,Refund,Description for issue 94...,High,2026-04-12 02:36:52,Resolved
+TKT0095,CUST0182,Payment Issue,Description for issue 95...,High,2026-04-05 02:36:52,Open
+TKT0096,CUST0026,General Inquiry,Description for issue 96...,Medium,2026-04-15 02:36:52,Open
+TKT0097,CUST0049,Shipping,Description for issue 97...,Medium,2026-04-18 02:36:52,In Progress
+TKT0098,CUST0701,Payment Issue,Description for issue 98...,Low,2026-04-01 02:36:52,Open
+TKT0099,CUST0865,Refund,Description for issue 99...,Low,2026-04-02 02:36:52,Closed
+TKT0100,CUST0561,General Inquiry,Description for issue 100...,Low,2026-04-07 02:36:52,Open
+TKT0101,CUST0219,Payment Issue,Description for issue 101...,High,2026-03-23 02:36:52,Closed
+TKT0102,CUST0292,Refund,Description for issue 102...,Medium,2026-03-31 02:36:52,Open
+TKT0103,CUST0723,Account Access,Description for issue 103...,Urgent,2026-04-02 02:36:52,Resolved
+TKT0104,CUST0575,Shipping,Description for issue 104...,Low,2026-04-08 02:36:52,Open
+TKT0105,CUST0935,Account Access,Description for issue 105...,Low,2026-03-26 02:36:52,Resolved
+TKT0106,CUST0090,Payment Issue,Description for issue 106...,Urgent,2026-03-25 02:36:52,Closed
+TKT0107,CUST0456,Account Access,Description for issue 107...,Urgent,2026-04-12 02:36:52,Closed
+TKT0108,CUST0351,Refund,Description for issue 108...,Low,2026-04-20 02:36:52,Open
+TKT0109,CUST0330,General Inquiry,Description for issue 109...,Medium,2026-04-18 02:36:52,In Progress
+TKT0110,CUST0346,Damaged Product,Description for issue 110...,Urgent,2026-04-09 02:36:52,Closed
+TKT0111,CUST0483,Payment Issue,Description for issue 111...,Medium,2026-03-31 02:36:52,Resolved
+TKT0112,CUST0499,Refund,Description for issue 112...,High,2026-04-06 02:36:52,Closed
+TKT0113,CUST0281,Account Access,Description for issue 113...,High,2026-04-16 02:36:52,Closed
+TKT0114,CUST0785,Payment Issue,Description for issue 114...,Medium,2026-04-14 02:36:52,Resolved
+TKT0115,CUST0261,Account Access,Description for issue 115...,High,2026-03-30 02:36:52,Open
+TKT0116,CUST0671,Shipping,Description for issue 116...,Low,2026-04-13 02:36:52,Resolved
+TKT0117,CUST0715,Account Access,Description for issue 117...,Medium,2026-04-15 02:36:52,Open
+TKT0118,CUST0335,Shipping,Description for issue 118...,Low,2026-03-30 02:36:52,In Progress
+TKT0119,CUST0103,Payment Issue,Description for issue 119...,Medium,2026-04-01 02:36:52,In Progress
+TKT0120,CUST0369,Refund,Description for issue 120...,Medium,2026-04-09 02:36:52,Resolved
+TKT0121,CUST1000,General Inquiry,Description for issue 121...,Medium,2026-04-20 02:36:52,In Progress
+TKT0122,CUST0219,Payment Issue,Description for issue 122...,Low,2026-03-23 02:36:52,In Progress
+TKT0123,CUST0141,Damaged Product,Description for issue 123...,Medium,2026-04-01 02:36:52,In Progress
+TKT0124,CUST0044,Refund,Description for issue 124...,Low,2026-04-16 02:36:52,In Progress
+TKT0125,CUST0138,General Inquiry,Description for issue 125...,High,2026-03-28 02:36:52,Closed
+TKT0126,CUST0733,Shipping,Description for issue 126...,Medium,2026-03-29 02:36:52,Open
+TKT0127,CUST0382,Payment Issue,Description for issue 127...,High,2026-03-21 02:36:52,Closed
+TKT0128,CUST0567,General Inquiry,Description for issue 128...,Low,2026-04-20 02:36:52,Open
+TKT0129,CUST0975,Damaged Product,Description for issue 129...,Medium,2026-04-16 02:36:52,Open
+TKT0130,CUST0780,Account Access,Description for issue 130...,Urgent,2026-04-08 02:36:52,Closed
+TKT0131,CUST0805,Account Access,Description for issue 131...,Urgent,2026-03-21 02:36:52,In Progress
+TKT0132,CUST0057,Account Access,Description for issue 132...,High,2026-04-08 02:36:52,In Progress
+TKT0133,CUST0582,Account Access,Description for issue 133...,Urgent,2026-04-06 02:36:52,In Progress
+TKT0134,CUST0304,General Inquiry,Description for issue 134...,High,2026-04-18 02:36:52,Resolved
+TKT0135,CUST0654,Payment Issue,Description for issue 135...,High,2026-04-03 02:36:52,Resolved
+TKT0136,CUST0948,Refund,Description for issue 136...,Urgent,2026-03-23 02:36:52,In Progress
+TKT0137,CUST0595,Account Access,Description for issue 137...,High,2026-03-21 02:36:52,Open
+TKT0138,CUST0722,Account Access,Description for issue 138...,High,2026-04-19 02:36:52,In Progress
+TKT0139,CUST0896,Damaged Product,Description for issue 139...,High,2026-04-18 02:36:52,Open
+TKT0140,CUST0634,Shipping,Description for issue 140...,Medium,2026-04-04 02:36:52,Open
+TKT0141,CUST0612,Refund,Description for issue 141...,Medium,2026-03-26 02:36:52,Open
+TKT0142,CUST0981,Shipping,Description for issue 142...,Urgent,2026-03-31 02:36:52,In Progress
+TKT0143,CUST0614,Account Access,Description for issue 143...,High,2026-03-30 02:36:52,Resolved
+TKT0144,CUST0903,Damaged Product,Description for issue 144...,Low,2026-04-10 02:36:52,Open
+TKT0145,CUST0735,Account Access,Description for issue 145...,Medium,2026-03-25 02:36:52,Resolved
+TKT0146,CUST0156,Shipping,Description for issue 146...,Medium,2026-04-14 02:36:52,In Progress
+TKT0147,CUST0333,Payment Issue,Description for issue 147...,Medium,2026-03-27 02:36:52,Closed
+TKT0148,CUST0162,Refund,Description for issue 148...,High,2026-03-31 02:36:52,Open
+TKT0149,CUST0470,Refund,Description for issue 149...,Medium,2026-04-14 02:36:52,In Progress
+TKT0150,CUST0120,Refund,Description for issue 150...,Medium,2026-04-06 02:36:52,Closed
+TKT0151,CUST0723,Shipping,Description for issue 151...,Low,2026-04-06 02:36:52,Closed
+TKT0152,CUST0146,Refund,Description for issue 152...,Low,2026-03-29 02:36:52,In Progress
+TKT0153,CUST0816,Damaged Product,Description for issue 153...,High,2026-04-15 02:36:52,In Progress
+TKT0154,CUST0146,Account Access,Description for issue 154...,Urgent,2026-04-09 02:36:52,Closed
+TKT0155,CUST0785,Payment Issue,Description for issue 155...,Low,2026-04-09 02:36:52,In Progress
+TKT0156,CUST0045,Refund,Description for issue 156...,Urgent,2026-04-13 02:36:52,Open
+TKT0157,CUST0691,Payment Issue,Description for issue 157...,Urgent,2026-03-31 02:36:52,Open
+TKT0158,CUST0736,Damaged Product,Description for issue 158...,Medium,2026-04-04 02:36:52,In Progress
+TKT0159,CUST0371,Damaged Product,Description for issue 159...,Urgent,2026-04-06 02:36:52,In Progress
+TKT0160,CUST0465,Payment Issue,Description for issue 160...,High,2026-03-27 02:36:52,Resolved
+TKT0161,CUST0490,Refund,Description for issue 161...,Urgent,2026-03-26 02:36:52,In Progress
+TKT0162,CUST0762,Refund,Description for issue 162...,Urgent,2026-03-23 02:36:52,Closed
+TKT0163,CUST0589,Shipping,Description for issue 163...,High,2026-04-09 02:36:52,Resolved
+TKT0164,CUST0928,Payment Issue,Description for issue 164...,Low,2026-03-27 02:36:52,In Progress
+TKT0165,CUST0909,Shipping,Description for issue 165...,Low,2026-04-10 02:36:52,Closed
+TKT0166,CUST0533,Payment Issue,Description for issue 166...,Urgent,2026-03-30 02:36:52,Closed
+TKT0167,CUST0649,Account Access,Description for issue 167...,High,2026-04-14 02:36:52,In Progress
+TKT0168,CUST0341,Shipping,Description for issue 168...,Urgent,2026-04-10 02:36:52,Open
+TKT0169,CUST0825,Payment Issue,Description for issue 169...,Low,2026-04-13 02:36:52,In Progress
+TKT0170,CUST0069,Damaged Product,Description for issue 170...,Low,2026-03-22 02:36:52,Open
+TKT0171,CUST0576,General Inquiry,Description for issue 171...,Low,2026-04-01 02:36:52,Resolved
+TKT0172,CUST0753,Account Access,Description for issue 172...,Low,2026-04-19 02:36:52,Open
+TKT0173,CUST0782,Refund,Description for issue 173...,Low,2026-04-19 02:36:52,Closed
+TKT0174,CUST0726,Payment Issue,Description for issue 174...,Medium,2026-04-05 02:36:52,Resolved
+TKT0175,CUST0833,Account Access,Description for issue 175...,Low,2026-04-08 02:36:52,Closed
+TKT0176,CUST0769,Account Access,Description for issue 176...,Low,2026-04-13 02:36:52,Closed
+TKT0177,CUST0800,General Inquiry,Description for issue 177...,Low,2026-04-05 02:36:52,Closed
+TKT0178,CUST0061,Account Access,Description for issue 178...,Low,2026-03-21 02:36:52,In Progress
+TKT0179,CUST0748,Shipping,Description for issue 179...,Urgent,2026-04-03 02:36:52,Open
+TKT0180,CUST0067,Refund,Description for issue 180...,Medium,2026-04-03 02:36:52,Resolved
+TKT0181,CUST0008,Payment Issue,Description for issue 181...,Urgent,2026-03-30 02:36:52,Open
+TKT0182,CUST0454,Account Access,Description for issue 182...,Urgent,2026-04-04 02:36:52,In Progress
+TKT0183,CUST0582,Payment Issue,Description for issue 183...,Medium,2026-04-06 02:36:52,Open
+TKT0184,CUST0215,General Inquiry,Description for issue 184...,Urgent,2026-04-10 02:36:52,Open
+TKT0185,CUST0046,Refund,Description for issue 185...,High,2026-03-24 02:36:52,Open
+TKT0186,CUST0108,Refund,Description for issue 186...,Medium,2026-04-12 02:36:52,Closed
+TKT0187,CUST0084,Damaged Product,Description for issue 187...,Urgent,2026-04-09 02:36:52,Open
+TKT0188,CUST0075,Payment Issue,Description for issue 188...,Medium,2026-04-05 02:36:52,Open
+TKT0189,CUST1000,Payment Issue,Description for issue 189...,Medium,2026-04-08 02:36:52,Open
+TKT0190,CUST0979,Account Access,Description for issue 190...,High,2026-03-24 02:36:52,Closed
+TKT0191,CUST0427,Shipping,Description for issue 191...,High,2026-03-23 02:36:52,Resolved
+TKT0192,CUST0540,Account Access,Description for issue 192...,Urgent,2026-04-06 02:36:52,Resolved
+TKT0193,CUST0049,General Inquiry,Description for issue 193...,High,2026-04-08 02:36:52,Resolved
+TKT0194,CUST0217,Damaged Product,Description for issue 194...,Medium,2026-04-01 02:36:52,Closed
+TKT0195,CUST0176,Account Access,Description for issue 195...,Medium,2026-03-27 02:36:52,In Progress
+TKT0196,CUST0830,Refund,Description for issue 196...,Low,2026-04-16 02:36:52,In Progress
+TKT0197,CUST0192,Shipping,Description for issue 197...,Medium,2026-04-20 02:36:52,Resolved
+TKT0198,CUST0797,Shipping,Description for issue 198...,Low,2026-03-21 02:36:52,Resolved
+TKT0199,CUST0569,General Inquiry,Description for issue 199...,High,2026-04-16 02:36:52,In Progress
+TKT0200,CUST0779,Damaged Product,Description for issue 200...,Low,2026-04-04 02:36:52,Resolved
+TKT0201,CUST0945,Refund,Description for issue 201...,Medium,2026-03-23 02:36:52,In Progress
+TKT0202,CUST0809,Refund,Description for issue 202...,Urgent,2026-04-07 02:36:52,In Progress
+TKT0203,CUST0381,Payment Issue,Description for issue 203...,High,2026-04-11 02:36:52,In Progress
+TKT0204,CUST0763,Shipping,Description for issue 204...,Urgent,2026-04-20 02:36:52,Resolved
+TKT0205,CUST0872,General Inquiry,Description for issue 205...,Low,2026-03-25 02:36:52,Closed
+TKT0206,CUST0302,Refund,Description for issue 206...,Low,2026-04-02 02:36:52,Closed
+TKT0207,CUST0188,Shipping,Description for issue 207...,High,2026-04-03 02:36:52,Resolved
+TKT0208,CUST0475,Account Access,Description for issue 208...,High,2026-04-13 02:36:52,Open
+TKT0209,CUST0947,Account Access,Description for issue 209...,Urgent,2026-04-19 02:36:52,In Progress
+TKT0210,CUST0508,Account Access,Description for issue 210...,High,2026-04-12 02:36:52,Open
+TKT0211,CUST0460,General Inquiry,Description for issue 211...,High,2026-04-11 02:36:52,Resolved
+TKT0212,CUST0345,Damaged Product,Description for issue 212...,Low,2026-04-07 02:36:52,Resolved
+TKT0213,CUST0067,Damaged Product,Description for issue 213...,Low,2026-04-14 02:36:52,Resolved
+TKT0214,CUST0178,Refund,Description for issue 214...,Low,2026-04-13 02:36:52,Open
+TKT0215,CUST0280,General Inquiry,Description for issue 215...,High,2026-04-11 02:36:52,Open
+TKT0216,CUST0388,Refund,Description for issue 216...,Medium,2026-03-30 02:36:52,Closed
+TKT0217,CUST0424,Account Access,Description for issue 217...,Low,2026-04-18 02:36:52,In Progress
+TKT0218,CUST0523,General Inquiry,Description for issue 218...,Urgent,2026-03-23 02:36:52,Resolved
+TKT0219,CUST0748,Payment Issue,Description for issue 219...,Urgent,2026-03-29 02:36:52,Open
+TKT0220,CUST0597,Damaged Product,Description for issue 220...,Urgent,2026-04-12 02:36:52,In Progress
+TKT0221,CUST0329,Payment Issue,Description for issue 221...,Medium,2026-03-30 02:36:52,Resolved
+TKT0222,CUST0628,Payment Issue,Description for issue 222...,Urgent,2026-04-16 02:36:52,Open
+TKT0223,CUST0704,Payment Issue,Description for issue 223...,High,2026-03-31 02:36:52,Closed
+TKT0224,CUST0525,Account Access,Description for issue 224...,Urgent,2026-03-25 02:36:52,Closed
+TKT0225,CUST0355,Damaged Product,Description for issue 225...,Medium,2026-04-08 02:36:52,Open
+TKT0226,CUST0336,Damaged Product,Description for issue 226...,Low,2026-04-07 02:36:52,Open
+TKT0227,CUST0461,General Inquiry,Description for issue 227...,High,2026-04-09 02:36:52,Closed
+TKT0228,CUST0550,Refund,Description for issue 228...,Medium,2026-04-07 02:36:52,Open
+TKT0229,CUST0128,Shipping,Description for issue 229...,Medium,2026-04-20 02:36:52,Resolved
+TKT0230,CUST0532,Payment Issue,Description for issue 230...,Urgent,2026-04-17 02:36:52,Open
+TKT0231,CUST0791,Account Access,Description for issue 231...,High,2026-03-25 02:36:52,Resolved
+TKT0232,CUST0963,Shipping,Description for issue 232...,Medium,2026-03-23 02:36:52,Closed
+TKT0233,CUST0012,Payment Issue,Description for issue 233...,Medium,2026-03-29 02:36:52,Resolved
+TKT0234,CUST0779,Account Access,Description for issue 234...,Urgent,2026-03-26 02:36:52,Resolved
+TKT0235,CUST0271,Damaged Product,Description for issue 235...,Urgent,2026-03-27 02:36:52,Closed
+TKT0236,CUST0321,Payment Issue,Description for issue 236...,Medium,2026-04-06 02:36:52,Resolved
+TKT0237,CUST0038,Refund,Description for issue 237...,Medium,2026-04-04 02:36:52,Resolved
+TKT0238,CUST0074,Damaged Product,Description for issue 238...,Medium,2026-03-28 02:36:52,Resolved
+TKT0239,CUST0836,Refund,Description for issue 239...,Urgent,2026-03-22 02:36:52,Closed
+TKT0240,CUST0594,Account Access,Description for issue 240...,High,2026-03-29 02:36:52,Closed
+TKT0241,CUST0340,Account Access,Description for issue 241...,Medium,2026-04-14 02:36:52,Closed
+TKT0242,CUST0432,General Inquiry,Description for issue 242...,Urgent,2026-04-14 02:36:52,In Progress
+TKT0243,CUST0401,Damaged Product,Description for issue 243...,High,2026-04-03 02:36:52,Open
+TKT0244,CUST0036,Refund,Description for issue 244...,Low,2026-03-31 02:36:52,Closed
+TKT0245,CUST0217,Refund,Description for issue 245...,High,2026-04-14 02:36:52,In Progress
+TKT0246,CUST0876,Account Access,Description for issue 246...,High,2026-04-15 02:36:52,Resolved
+TKT0247,CUST0183,Payment Issue,Description for issue 247...,High,2026-04-20 02:36:52,Open
+TKT0248,CUST0795,Account Access,Description for issue 248...,Medium,2026-04-08 02:36:52,Resolved
+TKT0249,CUST0304,Damaged Product,Description for issue 249...,Medium,2026-04-07 02:36:52,Open
+TKT0250,CUST0671,General Inquiry,Description for issue 250...,Urgent,2026-04-02 02:36:52,Closed
+TKT0251,CUST0483,Payment Issue,Description for issue 251...,High,2026-04-11 02:36:52,In Progress
+TKT0252,CUST0431,Account Access,Description for issue 252...,Urgent,2026-04-13 02:36:52,Open
+TKT0253,CUST0844,Damaged Product,Description for issue 253...,Medium,2026-04-18 02:36:52,Closed
+TKT0254,CUST0698,Shipping,Description for issue 254...,Medium,2026-04-14 02:36:52,Resolved
+TKT0255,CUST0480,Account Access,Description for issue 255...,Medium,2026-04-11 02:36:52,Closed
+TKT0256,CUST0395,Refund,Description for issue 256...,High,2026-04-20 02:36:52,Resolved
+TKT0257,CUST0285,Payment Issue,Description for issue 257...,High,2026-04-05 02:36:52,Open
+TKT0258,CUST0509,General Inquiry,Description for issue 258...,Urgent,2026-04-12 02:36:52,In Progress
+TKT0259,CUST0689,Account Access,Description for issue 259...,Low,2026-04-14 02:36:52,Resolved
+TKT0260,CUST0330,Damaged Product,Description for issue 260...,High,2026-03-28 02:36:52,Open
+TKT0261,CUST0771,Payment Issue,Description for issue 261...,High,2026-04-17 02:36:52,Closed
+TKT0262,CUST0547,Payment Issue,Description for issue 262...,High,2026-04-17 02:36:52,In Progress
+TKT0263,CUST0025,Refund,Description for issue 263...,Low,2026-04-08 02:36:52,Resolved
+TKT0264,CUST0093,Payment Issue,Description for issue 264...,Urgent,2026-04-17 02:36:52,Open
+TKT0265,CUST0056,Account Access,Description for issue 265...,Urgent,2026-03-22 02:36:52,Closed
+TKT0266,CUST0305,Shipping,Description for issue 266...,Urgent,2026-03-21 02:36:52,Resolved
+TKT0267,CUST0730,Payment Issue,Description for issue 267...,Low,2026-04-18 02:36:52,In Progress
+TKT0268,CUST0437,Payment Issue,Description for issue 268...,Medium,2026-03-21 02:36:52,In Progress
+TKT0269,CUST0746,Payment Issue,Description for issue 269...,Medium,2026-03-28 02:36:52,Open
+TKT0270,CUST0685,Payment Issue,Description for issue 270...,Urgent,2026-04-16 02:36:52,Resolved
+TKT0271,CUST0031,Damaged Product,Description for issue 271...,High,2026-03-30 02:36:52,Closed
+TKT0272,CUST0206,Account Access,Description for issue 272...,Low,2026-04-15 02:36:52,Closed
+TKT0273,CUST0018,Payment Issue,Description for issue 273...,Low,2026-04-02 02:36:52,Closed
+TKT0274,CUST0215,Damaged Product,Description for issue 274...,Medium,2026-03-23 02:36:52,Open
+TKT0275,CUST0624,Damaged Product,Description for issue 275...,Urgent,2026-04-04 02:36:52,Resolved
+TKT0276,CUST0172,Payment Issue,Description for issue 276...,High,2026-04-16 02:36:52,In Progress
+TKT0277,CUST0475,Payment Issue,Description for issue 277...,Low,2026-03-30 02:36:52,Open
+TKT0278,CUST0383,Refund,Description for issue 278...,Low,2026-03-25 02:36:52,Open
+TKT0279,CUST0238,Shipping,Description for issue 279...,Low,2026-04-11 02:36:52,Resolved
+TKT0280,CUST0470,Refund,Description for issue 280...,Medium,2026-04-10 02:36:52,In Progress
+TKT0281,CUST0146,Refund,Description for issue 281...,High,2026-04-02 02:36:52,Closed
+TKT0282,CUST0521,Account Access,Description for issue 282...,Low,2026-04-17 02:36:52,In Progress
+TKT0283,CUST0166,Payment Issue,Description for issue 283...,Low,2026-03-26 02:36:52,Resolved
+TKT0284,CUST0759,Damaged Product,Description for issue 284...,Low,2026-03-21 02:36:52,Closed
+TKT0285,CUST0777,Account Access,Description for issue 285...,Urgent,2026-03-29 02:36:52,In Progress
+TKT0286,CUST0805,General Inquiry,Description for issue 286...,High,2026-03-31 02:36:52,Open
+TKT0287,CUST0103,Payment Issue,Description for issue 287...,Urgent,2026-03-30 02:36:52,Resolved
+TKT0288,CUST0010,Refund,Description for issue 288...,Low,2026-03-26 02:36:52,Open
+TKT0289,CUST0525,Damaged Product,Description for issue 289...,Urgent,2026-04-19 02:36:52,Closed
+TKT0290,CUST0191,Account Access,Description for issue 290...,Low,2026-04-06 02:36:52,In Progress
+TKT0291,CUST0102,Account Access,Description for issue 291...,High,2026-04-18 02:36:52,In Progress
+TKT0292,CUST0342,Account Access,Description for issue 292...,Urgent,2026-04-02 02:36:52,Open
+TKT0293,CUST0928,Refund,Description for issue 293...,High,2026-04-02 02:36:52,In Progress
+TKT0294,CUST1000,Refund,Description for issue 294...,Urgent,2026-04-03 02:36:52,Open
+TKT0295,CUST0703,Shipping,Description for issue 295...,Medium,2026-04-12 02:36:52,Open
+TKT0296,CUST0417,General Inquiry,Description for issue 296...,Medium,2026-04-13 02:36:52,Resolved
+TKT0297,CUST0178,General Inquiry,Description for issue 297...,Low,2026-04-19 02:36:52,Open
+TKT0298,CUST0994,Account Access,Description for issue 298...,Medium,2026-04-02 02:36:52,Resolved
+TKT0299,CUST0882,Refund,Description for issue 299...,High,2026-04-04 02:36:52,In Progress
+TKT0300,CUST0693,Shipping,Description for issue 300...,Urgent,2026-03-25 02:36:52,In Progress
+TKT0301,CUST0107,Shipping,Description for issue 301...,Urgent,2026-04-06 02:36:52,In Progress
+TKT0302,CUST0871,Account Access,Description for issue 302...,Low,2026-04-06 02:36:52,Open
+TKT0303,CUST0268,Payment Issue,Description for issue 303...,Medium,2026-04-17 02:36:52,Closed
+TKT0304,CUST0098,Refund,Description for issue 304...,Low,2026-04-07 02:36:52,Resolved
+TKT0305,CUST0867,General Inquiry,Description for issue 305...,Urgent,2026-04-01 02:36:52,Resolved
+TKT0306,CUST0587,Refund,Description for issue 306...,Low,2026-03-28 02:36:52,Open
+TKT0307,CUST0158,Payment Issue,Description for issue 307...,Urgent,2026-03-31 02:36:52,Open
+TKT0308,CUST0867,General Inquiry,Description for issue 308...,Urgent,2026-04-10 02:36:52,Resolved
+TKT0309,CUST0189,Account Access,Description for issue 309...,Medium,2026-04-01 02:36:52,Open
+TKT0310,CUST0853,Payment Issue,Description for issue 310...,Urgent,2026-04-15 02:36:52,Open
+TKT0311,CUST0783,Damaged Product,Description for issue 311...,High,2026-04-15 02:36:52,Resolved
+TKT0312,CUST0542,Payment Issue,Description for issue 312...,Low,2026-04-10 02:36:52,Resolved
+TKT0313,CUST0074,Damaged Product,Description for issue 313...,High,2026-04-14 02:36:52,Resolved
+TKT0314,CUST0766,Account Access,Description for issue 314...,Medium,2026-04-19 02:36:52,Open
+TKT0315,CUST0525,Payment Issue,Description for issue 315...,Low,2026-04-04 02:36:52,Closed
+TKT0316,CUST0703,Refund,Description for issue 316...,High,2026-04-14 02:36:52,In Progress
+TKT0317,CUST0868,Refund,Description for issue 317...,Medium,2026-04-02 02:36:52,Closed
+TKT0318,CUST0717,General Inquiry,Description for issue 318...,High,2026-03-29 02:36:52,Open
+TKT0319,CUST0958,General Inquiry,Description for issue 319...,Medium,2026-04-09 02:36:52,Resolved
+TKT0320,CUST0916,Account Access,Description for issue 320...,Urgent,2026-03-29 02:36:52,Closed
+TKT0321,CUST0081,Shipping,Description for issue 321...,Medium,2026-04-01 02:36:52,Resolved
+TKT0322,CUST0529,Account Access,Description for issue 322...,Medium,2026-04-16 02:36:52,Resolved
+TKT0323,CUST0781,Payment Issue,Description for issue 323...,Low,2026-04-11 02:36:52,Closed
+TKT0324,CUST0806,Account Access,Description for issue 324...,Medium,2026-04-06 02:36:52,Open
+TKT0325,CUST0780,Damaged Product,Description for issue 325...,Low,2026-03-28 02:36:52,Closed
+TKT0326,CUST0241,Account Access,Description for issue 326...,Low,2026-04-06 02:36:52,Resolved
+TKT0327,CUST0206,Account Access,Description for issue 327...,Medium,2026-04-09 02:36:52,In Progress
+TKT0328,CUST0122,Shipping,Description for issue 328...,Low,2026-04-09 02:36:52,Open
+TKT0329,CUST0844,General Inquiry,Description for issue 329...,High,2026-03-26 02:36:52,Resolved
+TKT0330,CUST0499,General Inquiry,Description for issue 330...,Urgent,2026-03-27 02:36:52,Open
+TKT0331,CUST0496,Refund,Description for issue 331...,Medium,2026-03-23 02:36:52,Open
+TKT0332,CUST0948,Shipping,Description for issue 332...,High,2026-04-15 02:36:52,Open
+TKT0333,CUST0724,Refund,Description for issue 333...,High,2026-04-13 02:36:52,Closed
+TKT0334,CUST0052,Account Access,Description for issue 334...,Low,2026-04-02 02:36:52,Resolved
+TKT0335,CUST0451,Damaged Product,Description for issue 335...,Medium,2026-04-09 02:36:52,In Progress
+TKT0336,CUST0363,Damaged Product,Description for issue 336...,Medium,2026-04-08 02:36:52,Closed
+TKT0337,CUST0904,Account Access,Description for issue 337...,Low,2026-04-14 02:36:52,Resolved
+TKT0338,CUST0565,Damaged Product,Description for issue 338...,Low,2026-04-10 02:36:52,Open
+TKT0339,CUST0640,Payment Issue,Description for issue 339...,High,2026-03-26 02:36:52,Resolved
+TKT0340,CUST0753,Damaged Product,Description for issue 340...,High,2026-03-29 02:36:52,Resolved
+TKT0341,CUST0696,Refund,Description for issue 341...,Low,2026-04-04 02:36:52,Open
+TKT0342,CUST0032,Account Access,Description for issue 342...,High,2026-04-15 02:36:52,In Progress
+TKT0343,CUST0895,Shipping,Description for issue 343...,High,2026-04-18 02:36:52,Closed
+TKT0344,CUST0230,Account Access,Description for issue 344...,Medium,2026-03-22 02:36:52,In Progress
+TKT0345,CUST0824,Damaged Product,Description for issue 345...,Urgent,2026-04-12 02:36:52,Resolved
+TKT0346,CUST0339,Account Access,Description for issue 346...,High,2026-04-12 02:36:52,Closed
+TKT0347,CUST0200,Shipping,Description for issue 347...,High,2026-04-07 02:36:52,In Progress
+TKT0348,CUST0217,Damaged Product,Description for issue 348...,High,2026-04-06 02:36:52,Resolved
+TKT0349,CUST0769,General Inquiry,Description for issue 349...,High,2026-03-21 02:36:52,Closed
+TKT0350,CUST0235,Payment Issue,Description for issue 350...,Urgent,2026-04-18 02:36:52,In Progress
+TKT0351,CUST0444,Shipping,Description for issue 351...,Low,2026-04-20 02:36:52,Resolved
+TKT0352,CUST0968,Payment Issue,Description for issue 352...,High,2026-04-04 02:36:52,Resolved
+TKT0353,CUST0963,General Inquiry,Description for issue 353...,Medium,2026-04-09 02:36:52,In Progress
+TKT0354,CUST0064,General Inquiry,Description for issue 354...,Low,2026-04-16 02:36:52,Open
+TKT0355,CUST0041,Shipping,Description for issue 355...,High,2026-04-03 02:36:52,Open
+TKT0356,CUST0344,Payment Issue,Description for issue 356...,Urgent,2026-04-09 02:36:52,Closed
+TKT0357,CUST0987,Damaged Product,Description for issue 357...,High,2026-03-29 02:36:52,Closed
+TKT0358,CUST0702,Payment Issue,Description for issue 358...,Urgent,2026-03-21 02:36:52,Closed
+TKT0359,CUST0409,Account Access,Description for issue 359...,High,2026-03-24 02:36:52,Resolved
+TKT0360,CUST0756,Refund,Description for issue 360...,High,2026-04-12 02:36:52,In Progress
+TKT0361,CUST0889,Damaged Product,Description for issue 361...,Low,2026-03-31 02:36:52,Resolved
+TKT0362,CUST0037,General Inquiry,Description for issue 362...,Medium,2026-03-28 02:36:52,Open
+TKT0363,CUST0166,General Inquiry,Description for issue 363...,High,2026-03-27 02:36:52,Open
+TKT0364,CUST0653,General Inquiry,Description for issue 364...,Urgent,2026-04-09 02:36:52,Resolved
+TKT0365,CUST0178,Refund,Description for issue 365...,Low,2026-04-06 02:36:52,Resolved
+TKT0366,CUST0358,Account Access,Description for issue 366...,High,2026-03-31 02:36:52,Resolved
+TKT0367,CUST0530,General Inquiry,Description for issue 367...,Urgent,2026-03-26 02:36:52,Resolved
+TKT0368,CUST0919,Shipping,Description for issue 368...,High,2026-04-03 02:36:52,Open
+TKT0369,CUST0110,General Inquiry,Description for issue 369...,Medium,2026-04-20 02:36:52,Resolved
+TKT0370,CUST0584,General Inquiry,Description for issue 370...,Urgent,2026-04-11 02:36:52,Closed
+TKT0371,CUST0270,Shipping,Description for issue 371...,High,2026-04-05 02:36:52,Resolved
+TKT0372,CUST0222,Account Access,Description for issue 372...,Medium,2026-04-17 02:36:52,In Progress
+TKT0373,CUST0970,Damaged Product,Description for issue 373...,Medium,2026-04-11 02:36:52,Open
+TKT0374,CUST0041,Refund,Description for issue 374...,Urgent,2026-04-08 02:36:52,Resolved
+TKT0375,CUST0716,Payment Issue,Description for issue 375...,High,2026-04-12 02:36:52,Closed
+TKT0376,CUST0383,Payment Issue,Description for issue 376...,High,2026-03-28 02:36:52,In Progress
+TKT0377,CUST0470,Account Access,Description for issue 377...,High,2026-04-19 02:36:52,In Progress
+TKT0378,CUST0948,General Inquiry,Description for issue 378...,Medium,2026-04-18 02:36:52,Resolved
+TKT0379,CUST0995,Payment Issue,Description for issue 379...,Urgent,2026-04-20 02:36:52,Open
+TKT0380,CUST0321,Account Access,Description for issue 380...,Urgent,2026-04-17 02:36:52,Resolved
+TKT0381,CUST0358,General Inquiry,Description for issue 381...,Urgent,2026-04-20 02:36:52,Open
+TKT0382,CUST0359,Account Access,Description for issue 382...,Medium,2026-03-30 02:36:52,Closed
+TKT0383,CUST0789,Shipping,Description for issue 383...,Urgent,2026-04-02 02:36:52,Closed
+TKT0384,CUST0922,Damaged Product,Description for issue 384...,Urgent,2026-03-27 02:36:52,Resolved
+TKT0385,CUST0188,Refund,Description for issue 385...,High,2026-03-26 02:36:52,Resolved
+TKT0386,CUST0166,Shipping,Description for issue 386...,High,2026-04-17 02:36:52,In Progress
+TKT0387,CUST0367,Refund,Description for issue 387...,Urgent,2026-04-15 02:36:52,Open
+TKT0388,CUST0921,Payment Issue,Description for issue 388...,Low,2026-03-25 02:36:52,Resolved
+TKT0389,CUST0164,General Inquiry,Description for issue 389...,Urgent,2026-03-31 02:36:52,In Progress
+TKT0390,CUST0264,Refund,Description for issue 390...,Medium,2026-04-04 02:36:52,Open
+TKT0391,CUST0219,Payment Issue,Description for issue 391...,High,2026-04-03 02:36:52,In Progress
+TKT0392,CUST0688,General Inquiry,Description for issue 392...,Urgent,2026-04-14 02:36:52,Open
+TKT0393,CUST0637,Shipping,Description for issue 393...,Medium,2026-04-07 02:36:52,Resolved
+TKT0394,CUST0552,Payment Issue,Description for issue 394...,Medium,2026-04-15 02:36:52,Closed
+TKT0395,CUST0878,Payment Issue,Description for issue 395...,Medium,2026-04-17 02:36:52,Closed
+TKT0396,CUST0621,Damaged Product,Description for issue 396...,Medium,2026-04-16 02:36:52,In Progress
+TKT0397,CUST0641,General Inquiry,Description for issue 397...,High,2026-04-13 02:36:52,Closed
+TKT0398,CUST0770,Payment Issue,Description for issue 398...,High,2026-04-18 02:36:52,Open
+TKT0399,CUST0508,Damaged Product,Description for issue 399...,Urgent,2026-04-16 02:36:52,Closed
+TKT0400,CUST0139,General Inquiry,Description for issue 400...,High,2026-03-23 02:36:52,In Progress
+TKT0401,CUST0395,Shipping,Description for issue 401...,Medium,2026-04-13 02:36:52,In Progress
+TKT0402,CUST0464,Damaged Product,Description for issue 402...,Low,2026-03-25 02:36:52,In Progress
+TKT0403,CUST0456,Account Access,Description for issue 403...,Urgent,2026-04-11 02:36:52,In Progress
+TKT0404,CUST0472,Damaged Product,Description for issue 404...,Medium,2026-04-19 02:36:52,In Progress
+TKT0405,CUST0728,Payment Issue,Description for issue 405...,Medium,2026-03-31 02:36:52,In Progress
+TKT0406,CUST0746,Refund,Description for issue 406...,High,2026-04-09 02:36:52,Closed
+TKT0407,CUST0343,General Inquiry,Description for issue 407...,Medium,2026-03-27 02:36:52,Open
+TKT0408,CUST0403,General Inquiry,Description for issue 408...,Urgent,2026-04-02 02:36:52,In Progress
+TKT0409,CUST0388,Shipping,Description for issue 409...,Urgent,2026-04-10 02:36:52,In Progress
+TKT0410,CUST0153,Refund,Description for issue 410...,Low,2026-04-17 02:36:52,Closed
+TKT0411,CUST0261,Refund,Description for issue 411...,Low,2026-03-26 02:36:52,In Progress
+TKT0412,CUST0850,Shipping,Description for issue 412...,Medium,2026-04-04 02:36:52,Closed
+TKT0413,CUST0410,Shipping,Description for issue 413...,Low,2026-04-13 02:36:52,In Progress
+TKT0414,CUST0463,Damaged Product,Description for issue 414...,Urgent,2026-03-23 02:36:52,In Progress
+TKT0415,CUST0371,Payment Issue,Description for issue 415...,Low,2026-04-05 02:36:52,In Progress
+TKT0416,CUST0337,Shipping,Description for issue 416...,Medium,2026-03-23 02:36:52,Open
+TKT0417,CUST0527,Payment Issue,Description for issue 417...,Urgent,2026-04-11 02:36:52,Resolved
+TKT0418,CUST0523,Damaged Product,Description for issue 418...,Medium,2026-04-01 02:36:52,Open
+TKT0419,CUST0585,Payment Issue,Description for issue 419...,High,2026-04-12 02:36:52,Open
+TKT0420,CUST0570,Account Access,Description for issue 420...,Urgent,2026-04-13 02:36:52,Closed
+TKT0421,CUST0922,Payment Issue,Description for issue 421...,High,2026-04-20 02:36:52,In Progress
+TKT0422,CUST0662,Account Access,Description for issue 422...,Medium,2026-04-08 02:36:52,In Progress
+TKT0423,CUST0858,General Inquiry,Description for issue 423...,Low,2026-04-01 02:36:52,Closed
+TKT0424,CUST0139,General Inquiry,Description for issue 424...,Urgent,2026-03-28 02:36:52,In Progress
+TKT0425,CUST0181,Payment Issue,Description for issue 425...,Medium,2026-04-19 02:36:52,Open
+TKT0426,CUST0404,Refund,Description for issue 426...,Low,2026-04-10 02:36:52,Resolved
+TKT0427,CUST0139,Shipping,Description for issue 427...,Urgent,2026-04-13 02:36:52,Open
+TKT0428,CUST0831,Account Access,Description for issue 428...,Low,2026-04-16 02:36:52,Resolved
+TKT0429,CUST0214,General Inquiry,Description for issue 429...,High,2026-04-14 02:36:52,Resolved
+TKT0430,CUST0393,Refund,Description for issue 430...,Low,2026-03-29 02:36:52,Closed
+TKT0431,CUST0367,Shipping,Description for issue 431...,Medium,2026-04-07 02:36:52,Closed
+TKT0432,CUST0446,General Inquiry,Description for issue 432...,High,2026-04-06 02:36:52,Open
+TKT0433,CUST0270,Refund,Description for issue 433...,Urgent,2026-03-22 02:36:52,Closed
+TKT0434,CUST0968,Refund,Description for issue 434...,Urgent,2026-04-14 02:36:52,Open
+TKT0435,CUST0758,Account Access,Description for issue 435...,High,2026-04-05 02:36:52,Closed
+TKT0436,CUST0251,General Inquiry,Description for issue 436...,Low,2026-03-29 02:36:52,Closed
+TKT0437,CUST0539,Shipping,Description for issue 437...,Urgent,2026-03-25 02:36:52,In Progress
+TKT0438,CUST0836,Refund,Description for issue 438...,Low,2026-04-03 02:36:52,In Progress
+TKT0439,CUST0299,General Inquiry,Description for issue 439...,Medium,2026-04-19 02:36:52,Open
+TKT0440,CUST0322,Account Access,Description for issue 440...,Low,2026-04-06 02:36:52,Open
+TKT0441,CUST0206,Shipping,Description for issue 441...,High,2026-04-02 02:36:52,Open
+TKT0442,CUST0587,Refund,Description for issue 442...,High,2026-03-29 02:36:52,Closed
+TKT0443,CUST0558,Shipping,Description for issue 443...,Urgent,2026-03-30 02:36:52,Open
+TKT0444,CUST0083,Shipping,Description for issue 444...,Medium,2026-04-16 02:36:52,Open
+TKT0445,CUST0388,Refund,Description for issue 445...,Urgent,2026-04-01 02:36:52,In Progress
+TKT0446,CUST0321,Refund,Description for issue 446...,Medium,2026-04-15 02:36:52,In Progress
+TKT0447,CUST0447,General Inquiry,Description for issue 447...,Medium,2026-04-09 02:36:52,Open
+TKT0448,CUST0159,Damaged Product,Description for issue 448...,High,2026-04-18 02:36:52,In Progress
+TKT0449,CUST0809,Shipping,Description for issue 449...,High,2026-04-04 02:36:52,Resolved
+TKT0450,CUST0484,Refund,Description for issue 450...,Urgent,2026-04-03 02:36:52,In Progress
+TKT0451,CUST0128,Payment Issue,Description for issue 451...,Low,2026-03-30 02:36:52,Closed
+TKT0452,CUST0700,Damaged Product,Description for issue 452...,High,2026-03-26 02:36:52,Closed
+TKT0453,CUST0517,Account Access,Description for issue 453...,Urgent,2026-03-22 02:36:52,Closed
+TKT0454,CUST0710,General Inquiry,Description for issue 454...,Low,2026-04-04 02:36:52,Open
+TKT0455,CUST0708,Shipping,Description for issue 455...,Medium,2026-04-06 02:36:52,Resolved
+TKT0456,CUST0344,Shipping,Description for issue 456...,Medium,2026-03-21 02:36:52,Open
+TKT0457,CUST0130,Refund,Description for issue 457...,Low,2026-04-07 02:36:52,Resolved
+TKT0458,CUST0039,Damaged Product,Description for issue 458...,Medium,2026-04-06 02:36:52,In Progress
+TKT0459,CUST0282,Account Access,Description for issue 459...,Medium,2026-04-15 02:36:52,Resolved
+TKT0460,CUST0472,General Inquiry,Description for issue 460...,Low,2026-03-26 02:36:52,Resolved
+TKT0461,CUST0307,General Inquiry,Description for issue 461...,Low,2026-03-31 02:36:52,Closed
+TKT0462,CUST0932,Payment Issue,Description for issue 462...,Urgent,2026-03-28 02:36:52,Open
+TKT0463,CUST0817,Refund,Description for issue 463...,Urgent,2026-04-12 02:36:52,Resolved
+TKT0464,CUST0039,General Inquiry,Description for issue 464...,Medium,2026-03-25 02:36:52,Open
+TKT0465,CUST0382,Payment Issue,Description for issue 465...,Low,2026-04-04 02:36:52,Resolved
+TKT0466,CUST0720,General Inquiry,Description for issue 466...,Low,2026-03-27 02:36:52,Open
+TKT0467,CUST0022,Account Access,Description for issue 467...,Low,2026-03-30 02:36:52,Open
+TKT0468,CUST0626,Refund,Description for issue 468...,Low,2026-03-28 02:36:52,In Progress
+TKT0469,CUST0366,General Inquiry,Description for issue 469...,Medium,2026-03-26 02:36:52,Resolved
+TKT0470,CUST0899,Payment Issue,Description for issue 470...,Medium,2026-04-10 02:36:52,Resolved
+TKT0471,CUST0869,Shipping,Description for issue 471...,Medium,2026-03-29 02:36:52,In Progress
+TKT0472,CUST0247,Refund,Description for issue 472...,Urgent,2026-04-18 02:36:52,Closed
+TKT0473,CUST0588,General Inquiry,Description for issue 473...,Urgent,2026-04-18 02:36:52,Open
+TKT0474,CUST0953,General Inquiry,Description for issue 474...,High,2026-03-24 02:36:52,Resolved
+TKT0475,CUST0041,General Inquiry,Description for issue 475...,Urgent,2026-04-06 02:36:52,Resolved
+TKT0476,CUST0060,Damaged Product,Description for issue 476...,Urgent,2026-04-11 02:36:52,Resolved
+TKT0477,CUST0434,Damaged Product,Description for issue 477...,High,2026-04-19 02:36:52,Open
+TKT0478,CUST0563,Shipping,Description for issue 478...,High,2026-03-26 02:36:52,Closed
+TKT0479,CUST0009,Refund,Description for issue 479...,Medium,2026-04-12 02:36:52,In Progress
+TKT0480,CUST0362,Refund,Description for issue 480...,Medium,2026-03-29 02:36:52,Closed
+TKT0481,CUST0839,Account Access,Description for issue 481...,Urgent,2026-04-07 02:36:52,In Progress
+TKT0482,CUST0554,General Inquiry,Description for issue 482...,Urgent,2026-03-22 02:36:52,In Progress
+TKT0483,CUST0107,Refund,Description for issue 483...,Urgent,2026-03-31 02:36:52,Open
+TKT0484,CUST0321,Account Access,Description for issue 484...,Low,2026-04-12 02:36:52,Closed
+TKT0485,CUST0894,Damaged Product,Description for issue 485...,Medium,2026-04-14 02:36:52,Open
+TKT0486,CUST0480,General Inquiry,Description for issue 486...,Urgent,2026-04-11 02:36:52,Open
+TKT0487,CUST0516,Shipping,Description for issue 487...,High,2026-03-28 02:36:52,Open
+TKT0488,CUST0659,Payment Issue,Description for issue 488...,High,2026-03-26 02:36:52,Open
+TKT0489,CUST0695,Refund,Description for issue 489...,High,2026-03-25 02:36:52,Resolved
+TKT0490,CUST0431,Account Access,Description for issue 490...,Low,2026-03-29 02:36:52,Resolved
+TKT0491,CUST0928,Shipping,Description for issue 491...,Medium,2026-03-24 02:36:52,In Progress
+TKT0492,CUST0554,Payment Issue,Description for issue 492...,Low,2026-04-17 02:36:52,Closed
+TKT0493,CUST0469,General Inquiry,Description for issue 493...,Low,2026-03-23 02:36:52,Closed
+TKT0494,CUST0872,General Inquiry,Description for issue 494...,Medium,2026-04-01 02:36:52,Open
+TKT0495,CUST0723,Refund,Description for issue 495...,Medium,2026-04-15 02:36:52,Resolved
+TKT0496,CUST0672,Payment Issue,Description for issue 496...,Low,2026-03-30 02:36:52,Closed
+TKT0497,CUST0278,Refund,Description for issue 497...,Urgent,2026-03-26 02:36:52,Resolved
+TKT0498,CUST0291,Shipping,Description for issue 498...,Low,2026-04-16 02:36:52,Open
+TKT0499,CUST0053,Payment Issue,Description for issue 499...,Low,2026-04-14 02:36:52,In Progress
+TKT0500,CUST0855,Refund,Description for issue 500...,Low,2026-04-09 02:36:52,In Progress
+TKT0501,CUST0509,Refund,Description for issue 501...,High,2026-03-29 02:36:52,Open
+TKT0502,CUST0568,General Inquiry,Description for issue 502...,High,2026-04-05 02:36:52,Resolved
+TKT0503,CUST0516,Payment Issue,Description for issue 503...,High,2026-04-20 02:36:52,Open
+TKT0504,CUST0971,Damaged Product,Description for issue 504...,Urgent,2026-03-29 02:36:52,Closed
+TKT0505,CUST0999,Shipping,Description for issue 505...,Low,2026-03-30 02:36:52,Resolved
+TKT0506,CUST0488,Account Access,Description for issue 506...,Medium,2026-03-25 02:36:52,Resolved
+TKT0507,CUST0215,Damaged Product,Description for issue 507...,Medium,2026-03-30 02:36:52,In Progress
+TKT0508,CUST0075,Shipping,Description for issue 508...,Urgent,2026-03-29 02:36:52,In Progress
+TKT0509,CUST0384,Damaged Product,Description for issue 509...,Low,2026-04-17 02:36:52,In Progress
+TKT0510,CUST0930,Account Access,Description for issue 510...,Medium,2026-03-26 02:36:52,Closed
+TKT0511,CUST0011,Shipping,Description for issue 511...,High,2026-03-21 02:36:52,Closed
+TKT0512,CUST0044,Account Access,Description for issue 512...,Medium,2026-04-04 02:36:52,In Progress
+TKT0513,CUST0257,Account Access,Description for issue 513...,Low,2026-04-10 02:36:52,Resolved
+TKT0514,CUST0664,Payment Issue,Description for issue 514...,High,2026-04-13 02:36:52,Resolved
+TKT0515,CUST0309,Payment Issue,Description for issue 515...,Medium,2026-03-26 02:36:52,Open
+TKT0516,CUST0246,Payment Issue,Description for issue 516...,High,2026-04-06 02:36:52,Resolved
+TKT0517,CUST0936,Account Access,Description for issue 517...,Medium,2026-03-28 02:36:52,Closed
+TKT0518,CUST0549,Payment Issue,Description for issue 518...,Urgent,2026-03-22 02:36:52,Resolved
+TKT0519,CUST0253,General Inquiry,Description for issue 519...,Medium,2026-03-21 02:36:52,In Progress
+TKT0520,CUST0185,General Inquiry,Description for issue 520...,Urgent,2026-03-23 02:36:52,Closed
+TKT0521,CUST0213,Payment Issue,Description for issue 521...,Urgent,2026-04-16 02:36:52,Resolved
+TKT0522,CUST0551,Payment Issue,Description for issue 522...,Low,2026-03-26 02:36:52,In Progress
+TKT0523,CUST0134,Shipping,Description for issue 523...,Urgent,2026-04-20 02:36:52,Closed
+TKT0524,CUST0079,Damaged Product,Description for issue 524...,Urgent,2026-03-25 02:36:52,In Progress
+TKT0525,CUST0789,Account Access,Description for issue 525...,High,2026-03-21 02:36:52,In Progress
+TKT0526,CUST0922,Shipping,Description for issue 526...,Low,2026-04-12 02:36:52,Resolved
+TKT0527,CUST0592,Refund,Description for issue 527...,High,2026-03-31 02:36:52,Resolved
+TKT0528,CUST0358,Refund,Description for issue 528...,Urgent,2026-03-30 02:36:52,Resolved
+TKT0529,CUST0979,Shipping,Description for issue 529...,Urgent,2026-04-13 02:36:52,Closed
+TKT0530,CUST0615,Account Access,Description for issue 530...,Urgent,2026-03-24 02:36:52,Resolved
+TKT0531,CUST0535,Shipping,Description for issue 531...,Medium,2026-04-09 02:36:52,Resolved
+TKT0532,CUST0048,Account Access,Description for issue 532...,High,2026-03-30 02:36:52,Closed
+TKT0533,CUST0256,Refund,Description for issue 533...,High,2026-04-18 02:36:52,Resolved
+TKT0534,CUST0757,Shipping,Description for issue 534...,Urgent,2026-04-15 02:36:52,Closed
+TKT0535,CUST0683,Refund,Description for issue 535...,Low,2026-03-26 02:36:52,Resolved
+TKT0536,CUST0725,Damaged Product,Description for issue 536...,Low,2026-04-20 02:36:52,In Progress
+TKT0537,CUST0387,Account Access,Description for issue 537...,Low,2026-04-12 02:36:52,In Progress
+TKT0538,CUST0612,Damaged Product,Description for issue 538...,High,2026-04-17 02:36:52,Closed
+TKT0539,CUST0893,Refund,Description for issue 539...,Low,2026-04-15 02:36:52,Resolved
+TKT0540,CUST0781,Shipping,Description for issue 540...,Low,2026-04-05 02:36:52,Closed
+TKT0541,CUST0596,General Inquiry,Description for issue 541...,Urgent,2026-04-12 02:36:52,Open
+TKT0542,CUST0691,Refund,Description for issue 542...,Low,2026-04-04 02:36:52,Resolved
+TKT0543,CUST0367,Shipping,Description for issue 543...,Medium,2026-03-22 02:36:52,In Progress
+TKT0544,CUST0700,General Inquiry,Description for issue 544...,High,2026-04-14 02:36:52,Open
+TKT0545,CUST0756,Damaged Product,Description for issue 545...,Urgent,2026-03-24 02:36:52,In Progress
+TKT0546,CUST0087,Shipping,Description for issue 546...,High,2026-03-29 02:36:52,In Progress
+TKT0547,CUST0927,General Inquiry,Description for issue 547...,High,2026-04-16 02:36:52,Open
+TKT0548,CUST0006,Refund,Description for issue 548...,Medium,2026-04-16 02:36:52,Closed
+TKT0549,CUST0607,General Inquiry,Description for issue 549...,Low,2026-03-22 02:36:52,In Progress
+TKT0550,CUST0580,Refund,Description for issue 550...,Medium,2026-03-21 02:36:52,Closed
+TKT0551,CUST0893,General Inquiry,Description for issue 551...,Urgent,2026-04-18 02:36:52,In Progress
+TKT0552,CUST0468,General Inquiry,Description for issue 552...,Urgent,2026-04-08 02:36:52,In Progress
+TKT0553,CUST0381,General Inquiry,Description for issue 553...,Medium,2026-03-27 02:36:52,In Progress
+TKT0554,CUST0383,Refund,Description for issue 554...,High,2026-04-01 02:36:52,Resolved
+TKT0555,CUST0286,Account Access,Description for issue 555...,Medium,2026-03-24 02:36:52,Closed
+TKT0556,CUST0885,Shipping,Description for issue 556...,Medium,2026-04-02 02:36:52,Open
+TKT0557,CUST1000,Damaged Product,Description for issue 557...,Medium,2026-04-19 02:36:52,Resolved
+TKT0558,CUST0905,Payment Issue,Description for issue 558...,Medium,2026-03-23 02:36:52,Open
+TKT0559,CUST0045,General Inquiry,Description for issue 559...,Urgent,2026-04-13 02:36:52,Resolved
+TKT0560,CUST0567,Payment Issue,Description for issue 560...,Urgent,2026-03-30 02:36:52,Open
+TKT0561,CUST0170,Shipping,Description for issue 561...,Urgent,2026-04-11 02:36:52,Resolved
+TKT0562,CUST0022,Damaged Product,Description for issue 562...,Urgent,2026-04-18 02:36:52,In Progress
+TKT0563,CUST0816,Refund,Description for issue 563...,Medium,2026-04-19 02:36:52,Closed
+TKT0564,CUST0975,Account Access,Description for issue 564...,High,2026-04-07 02:36:52,Open
+TKT0565,CUST0324,Shipping,Description for issue 565...,Medium,2026-04-19 02:36:52,Resolved
+TKT0566,CUST0727,Refund,Description for issue 566...,Urgent,2026-04-01 02:36:52,In Progress
+TKT0567,CUST0735,Payment Issue,Description for issue 567...,Medium,2026-04-08 02:36:52,In Progress
+TKT0568,CUST0248,Refund,Description for issue 568...,Medium,2026-04-03 02:36:52,In Progress
+TKT0569,CUST0832,Damaged Product,Description for issue 569...,High,2026-04-18 02:36:52,In Progress
+TKT0570,CUST0221,Payment Issue,Description for issue 570...,High,2026-04-13 02:36:52,In Progress
+TKT0571,CUST0569,Refund,Description for issue 571...,Medium,2026-04-12 02:36:52,Open
+TKT0572,CUST0103,Damaged Product,Description for issue 572...,High,2026-04-20 02:36:52,Closed
+TKT0573,CUST0217,Shipping,Description for issue 573...,High,2026-04-11 02:36:52,Resolved
+TKT0574,CUST0675,Refund,Description for issue 574...,Urgent,2026-04-10 02:36:52,Open
+TKT0575,CUST0591,Damaged Product,Description for issue 575...,Medium,2026-03-21 02:36:52,Resolved
+TKT0576,CUST0900,Refund,Description for issue 576...,High,2026-04-03 02:36:52,Resolved
+TKT0577,CUST0739,Refund,Description for issue 577...,Low,2026-04-11 02:36:52,Open
+TKT0578,CUST0684,Shipping,Description for issue 578...,High,2026-03-24 02:36:52,Resolved
+TKT0579,CUST0847,Refund,Description for issue 579...,Low,2026-03-28 02:36:52,Closed
+TKT0580,CUST0988,Shipping,Description for issue 580...,Medium,2026-04-04 02:36:52,Open
+TKT0581,CUST0061,Payment Issue,Description for issue 581...,Urgent,2026-04-18 02:36:52,Closed
+TKT0582,CUST0702,Shipping,Description for issue 582...,Low,2026-04-09 02:36:52,Open
+TKT0583,CUST0361,Shipping,Description for issue 583...,Low,2026-04-05 02:36:52,Resolved
+TKT0584,CUST0874,Damaged Product,Description for issue 584...,Urgent,2026-04-10 02:36:52,Closed
+TKT0585,CUST0986,Damaged Product,Description for issue 585...,Medium,2026-04-04 02:36:52,In Progress
+TKT0586,CUST0915,Refund,Description for issue 586...,Low,2026-04-04 02:36:52,In Progress
+TKT0587,CUST0217,Payment Issue,Description for issue 587...,Urgent,2026-04-13 02:36:52,Resolved
+TKT0588,CUST0645,Refund,Description for issue 588...,High,2026-03-22 02:36:52,Closed
+TKT0589,CUST0031,Account Access,Description for issue 589...,Medium,2026-03-26 02:36:52,Open
+TKT0590,CUST0264,Shipping,Description for issue 590...,High,2026-04-05 02:36:52,Closed
+TKT0591,CUST0954,Refund,Description for issue 591...,Low,2026-04-19 02:36:52,Closed
+TKT0592,CUST0254,Payment Issue,Description for issue 592...,Urgent,2026-04-09 02:36:52,Resolved
+TKT0593,CUST0983,Account Access,Description for issue 593...,Medium,2026-04-10 02:36:52,Resolved
+TKT0594,CUST0164,Payment Issue,Description for issue 594...,High,2026-03-21 02:36:52,In Progress
+TKT0595,CUST0183,Refund,Description for issue 595...,High,2026-03-28 02:36:52,Open
+TKT0596,CUST0545,Shipping,Description for issue 596...,High,2026-03-24 02:36:52,Resolved
+TKT0597,CUST0264,Damaged Product,Description for issue 597...,Urgent,2026-04-17 02:36:52,Closed
+TKT0598,CUST0327,Account Access,Description for issue 598...,Low,2026-04-03 02:36:52,In Progress
+TKT0599,CUST0014,Refund,Description for issue 599...,Urgent,2026-03-31 02:36:52,In Progress
+TKT0600,CUST0788,General Inquiry,Description for issue 600...,Low,2026-04-03 02:36:52,In Progress
+TKT0601,CUST0977,Account Access,Description for issue 601...,High,2026-04-03 02:36:52,Open
+TKT0602,CUST0322,General Inquiry,Description for issue 602...,Urgent,2026-04-08 02:36:52,Closed
+TKT0603,CUST0646,Account Access,Description for issue 603...,High,2026-04-20 02:36:52,Resolved
+TKT0604,CUST0945,Refund,Description for issue 604...,Low,2026-03-31 02:36:52,Resolved
+TKT0605,CUST0436,Payment Issue,Description for issue 605...,Urgent,2026-04-01 02:36:52,Open
+TKT0606,CUST0119,Shipping,Description for issue 606...,Low,2026-03-31 02:36:52,Resolved
+TKT0607,CUST0751,Account Access,Description for issue 607...,Urgent,2026-03-31 02:36:52,Closed
+TKT0608,CUST0374,Shipping,Description for issue 608...,High,2026-03-21 02:36:52,Open
+TKT0609,CUST0545,General Inquiry,Description for issue 609...,High,2026-03-22 02:36:52,Open
+TKT0610,CUST0179,Refund,Description for issue 610...,Low,2026-04-08 02:36:52,Resolved
+TKT0611,CUST0423,Damaged Product,Description for issue 611...,Urgent,2026-04-04 02:36:52,Open
+TKT0612,CUST0109,Refund,Description for issue 612...,Medium,2026-04-01 02:36:52,In Progress
+TKT0613,CUST0875,Damaged Product,Description for issue 613...,Medium,2026-04-04 02:36:52,Closed
+TKT0614,CUST0666,Payment Issue,Description for issue 614...,Urgent,2026-04-17 02:36:52,In Progress
+TKT0615,CUST0139,Shipping,Description for issue 615...,High,2026-04-09 02:36:52,In Progress
+TKT0616,CUST0932,Damaged Product,Description for issue 616...,High,2026-03-22 02:36:52,In Progress
+TKT0617,CUST0818,Damaged Product,Description for issue 617...,Low,2026-04-12 02:36:52,Resolved
+TKT0618,CUST0542,Account Access,Description for issue 618...,Low,2026-04-03 02:36:52,Resolved
+TKT0619,CUST0977,Payment Issue,Description for issue 619...,Low,2026-04-10 02:36:52,Open
+TKT0620,CUST0184,General Inquiry,Description for issue 620...,Medium,2026-03-23 02:36:52,Open
+TKT0621,CUST0345,Account Access,Description for issue 621...,Urgent,2026-03-27 02:36:52,Resolved
+TKT0622,CUST0255,Account Access,Description for issue 622...,High,2026-04-01 02:36:52,Open
+TKT0623,CUST0538,Payment Issue,Description for issue 623...,High,2026-04-09 02:36:52,Resolved
+TKT0624,CUST0591,Account Access,Description for issue 624...,Low,2026-04-18 02:36:52,In Progress
+TKT0625,CUST0537,Refund,Description for issue 625...,High,2026-04-17 02:36:52,Open
+TKT0626,CUST0169,General Inquiry,Description for issue 626...,Low,2026-03-30 02:36:52,Closed
+TKT0627,CUST0601,Shipping,Description for issue 627...,Medium,2026-04-03 02:36:52,Resolved
+TKT0628,CUST0799,Account Access,Description for issue 628...,High,2026-04-07 02:36:52,Resolved
+TKT0629,CUST0592,General Inquiry,Description for issue 629...,Medium,2026-03-29 02:36:52,Closed
+TKT0630,CUST0735,General Inquiry,Description for issue 630...,Urgent,2026-03-26 02:36:52,In Progress
+TKT0631,CUST0680,Refund,Description for issue 631...,High,2026-04-03 02:36:52,Resolved
+TKT0632,CUST0611,General Inquiry,Description for issue 632...,Urgent,2026-03-31 02:36:52,Closed
+TKT0633,CUST0068,Account Access,Description for issue 633...,Urgent,2026-03-22 02:36:52,In Progress
+TKT0634,CUST0433,Refund,Description for issue 634...,Urgent,2026-04-10 02:36:52,Closed
+TKT0635,CUST0640,Payment Issue,Description for issue 635...,Low,2026-03-21 02:36:52,Resolved
+TKT0636,CUST0614,Refund,Description for issue 636...,Low,2026-04-12 02:36:52,Open
+TKT0637,CUST0833,General Inquiry,Description for issue 637...,Medium,2026-03-25 02:36:52,Open
+TKT0638,CUST0521,Damaged Product,Description for issue 638...,High,2026-03-21 02:36:52,Open
+TKT0639,CUST0845,Shipping,Description for issue 639...,Urgent,2026-04-02 02:36:52,Resolved
+TKT0640,CUST0709,Payment Issue,Description for issue 640...,Low,2026-03-21 02:36:52,Resolved
+TKT0641,CUST0251,Account Access,Description for issue 641...,Urgent,2026-03-24 02:36:52,Resolved
+TKT0642,CUST0862,Payment Issue,Description for issue 642...,High,2026-04-19 02:36:52,Open
+TKT0643,CUST0246,General Inquiry,Description for issue 643...,Medium,2026-04-18 02:36:52,Open
+TKT0644,CUST0943,Payment Issue,Description for issue 644...,Medium,2026-03-25 02:36:52,Open
+TKT0645,CUST0113,General Inquiry,Description for issue 645...,Urgent,2026-03-28 02:36:52,In Progress
+TKT0646,CUST0796,General Inquiry,Description for issue 646...,Medium,2026-04-04 02:36:52,Resolved
+TKT0647,CUST0924,Account Access,Description for issue 647...,Medium,2026-04-14 02:36:52,Open
+TKT0648,CUST0241,General Inquiry,Description for issue 648...,Urgent,2026-04-18 02:36:52,Closed
+TKT0649,CUST0940,Payment Issue,Description for issue 649...,Low,2026-04-01 02:36:52,Resolved
+TKT0650,CUST0979,Account Access,Description for issue 650...,Urgent,2026-04-08 02:36:52,Closed
+TKT0651,CUST0181,General Inquiry,Description for issue 651...,High,2026-03-22 02:36:52,Closed
+TKT0652,CUST0894,Shipping,Description for issue 652...,High,2026-04-14 02:36:52,In Progress
+TKT0653,CUST0242,Payment Issue,Description for issue 653...,Medium,2026-04-12 02:36:52,In Progress
+TKT0654,CUST0818,Payment Issue,Description for issue 654...,Low,2026-04-06 02:36:52,Open
+TKT0655,CUST0553,General Inquiry,Description for issue 655...,High,2026-04-12 02:36:52,Closed
+TKT0656,CUST0071,General Inquiry,Description for issue 656...,High,2026-04-12 02:36:52,Open
+TKT0657,CUST0942,Refund,Description for issue 657...,Low,2026-04-11 02:36:52,Resolved
+TKT0658,CUST0937,Refund,Description for issue 658...,Low,2026-03-25 02:36:52,Resolved
+TKT0659,CUST0118,Damaged Product,Description for issue 659...,Medium,2026-04-13 02:36:52,In Progress
+TKT0660,CUST0109,Shipping,Description for issue 660...,Low,2026-04-10 02:36:52,In Progress
+TKT0661,CUST0459,Damaged Product,Description for issue 661...,Urgent,2026-04-07 02:36:52,Open
+TKT0662,CUST0371,Refund,Description for issue 662...,Urgent,2026-04-09 02:36:52,Resolved
+TKT0663,CUST0599,Refund,Description for issue 663...,Low,2026-03-24 02:36:52,In Progress
+TKT0664,CUST0950,Refund,Description for issue 664...,High,2026-04-03 02:36:52,In Progress
+TKT0665,CUST0039,Payment Issue,Description for issue 665...,Urgent,2026-04-20 02:36:52,Closed
+TKT0666,CUST0360,Payment Issue,Description for issue 666...,Low,2026-04-16 02:36:52,Closed
+TKT0667,CUST0863,General Inquiry,Description for issue 667...,High,2026-03-27 02:36:52,In Progress
+TKT0668,CUST0936,Damaged Product,Description for issue 668...,High,2026-04-20 02:36:52,Resolved
+TKT0669,CUST0155,General Inquiry,Description for issue 669...,High,2026-04-15 02:36:52,Resolved
+TKT0670,CUST0648,General Inquiry,Description for issue 670...,Urgent,2026-03-26 02:36:52,In Progress
+TKT0671,CUST0825,Refund,Description for issue 671...,Low,2026-04-16 02:36:52,Open
+TKT0672,CUST0281,Shipping,Description for issue 672...,Urgent,2026-03-29 02:36:52,Resolved
+TKT0673,CUST0733,Shipping,Description for issue 673...,Medium,2026-03-26 02:36:52,Open
+TKT0674,CUST0471,General Inquiry,Description for issue 674...,High,2026-03-31 02:36:52,In Progress
+TKT0675,CUST0380,Refund,Description for issue 675...,Low,2026-04-17 02:36:52,Resolved
+TKT0676,CUST0332,Damaged Product,Description for issue 676...,Urgent,2026-04-02 02:36:52,Resolved
+TKT0677,CUST0996,General Inquiry,Description for issue 677...,High,2026-04-09 02:36:52,Open
+TKT0678,CUST0182,General Inquiry,Description for issue 678...,High,2026-04-03 02:36:52,Resolved
+TKT0679,CUST0988,Payment Issue,Description for issue 679...,High,2026-04-19 02:36:52,Closed
+TKT0680,CUST0511,Refund,Description for issue 680...,Urgent,2026-03-28 02:36:52,Open
+TKT0681,CUST0120,Payment Issue,Description for issue 681...,High,2026-04-10 02:36:52,Open
+TKT0682,CUST0227,Damaged Product,Description for issue 682...,Medium,2026-03-23 02:36:52,Resolved
+TKT0683,CUST0301,Shipping,Description for issue 683...,High,2026-04-06 02:36:52,In Progress
+TKT0684,CUST0360,Account Access,Description for issue 684...,Medium,2026-04-10 02:36:52,Resolved
+TKT0685,CUST0061,Damaged Product,Description for issue 685...,Urgent,2026-04-12 02:36:52,Resolved
+TKT0686,CUST0972,Damaged Product,Description for issue 686...,Urgent,2026-04-02 02:36:52,Resolved
+TKT0687,CUST0665,Damaged Product,Description for issue 687...,Low,2026-04-01 02:36:52,In Progress
+TKT0688,CUST0224,Refund,Description for issue 688...,Medium,2026-03-22 02:36:52,Closed
+TKT0689,CUST0774,Payment Issue,Description for issue 689...,Medium,2026-04-15 02:36:52,Resolved
+TKT0690,CUST0675,Payment Issue,Description for issue 690...,Medium,2026-04-15 02:36:52,Open
+TKT0691,CUST0012,Account Access,Description for issue 691...,Urgent,2026-03-23 02:36:52,Resolved
+TKT0692,CUST0905,Damaged Product,Description for issue 692...,Low,2026-04-03 02:36:52,In Progress
+TKT0693,CUST0574,Refund,Description for issue 693...,Low,2026-03-30 02:36:52,In Progress
+TKT0694,CUST0194,General Inquiry,Description for issue 694...,High,2026-04-05 02:36:52,In Progress
+TKT0695,CUST0924,Payment Issue,Description for issue 695...,Medium,2026-04-03 02:36:52,Resolved
+TKT0696,CUST0167,Shipping,Description for issue 696...,Medium,2026-04-09 02:36:52,Resolved
+TKT0697,CUST0107,Account Access,Description for issue 697...,Medium,2026-04-19 02:36:52,Resolved
+TKT0698,CUST0855,Damaged Product,Description for issue 698...,Medium,2026-04-05 02:36:52,Open
+TKT0699,CUST0692,Refund,Description for issue 699...,Low,2026-03-25 02:36:52,Closed
+TKT0700,CUST0428,Payment Issue,Description for issue 700...,Medium,2026-03-21 02:36:52,Resolved
+TKT0701,CUST0967,Refund,Description for issue 701...,Medium,2026-04-01 02:36:52,Closed
+TKT0702,CUST0459,Refund,Description for issue 702...,High,2026-03-28 02:36:52,Closed
+TKT0703,CUST0179,Shipping,Description for issue 703...,Medium,2026-03-24 02:36:52,Closed
+TKT0704,CUST0514,Payment Issue,Description for issue 704...,Medium,2026-03-22 02:36:52,In Progress
+TKT0705,CUST0316,Refund,Description for issue 705...,Medium,2026-03-31 02:36:52,Resolved
+TKT0706,CUST0314,Damaged Product,Description for issue 706...,Low,2026-04-06 02:36:52,Resolved
+TKT0707,CUST0596,Account Access,Description for issue 707...,Low,2026-03-25 02:36:52,In Progress
+TKT0708,CUST0877,Shipping,Description for issue 708...,Medium,2026-04-12 02:36:52,Closed
+TKT0709,CUST0229,Refund,Description for issue 709...,Medium,2026-04-19 02:36:52,Resolved
+TKT0710,CUST0437,Account Access,Description for issue 710...,High,2026-04-08 02:36:52,Open
+TKT0711,CUST0424,Shipping,Description for issue 711...,Urgent,2026-03-29 02:36:52,In Progress
+TKT0712,CUST0233,Refund,Description for issue 712...,Low,2026-04-13 02:36:52,Open
+TKT0713,CUST0077,Payment Issue,Description for issue 713...,Medium,2026-03-28 02:36:52,Closed
+TKT0714,CUST0700,Refund,Description for issue 714...,Low,2026-04-04 02:36:52,Open
+TKT0715,CUST0075,Damaged Product,Description for issue 715...,Medium,2026-04-08 02:36:52,Closed
+TKT0716,CUST0420,Account Access,Description for issue 716...,Low,2026-03-29 02:36:52,Resolved
+TKT0717,CUST0644,Account Access,Description for issue 717...,Low,2026-04-13 02:36:52,Closed
+TKT0718,CUST0810,Damaged Product,Description for issue 718...,Urgent,2026-04-17 02:36:52,Closed
+TKT0719,CUST0436,Payment Issue,Description for issue 719...,Urgent,2026-04-16 02:36:52,Open
+TKT0720,CUST0704,General Inquiry,Description for issue 720...,Low,2026-04-14 02:36:52,Open
+TKT0721,CUST0402,Account Access,Description for issue 721...,High,2026-04-19 02:36:52,In Progress
+TKT0722,CUST0216,General Inquiry,Description for issue 722...,Urgent,2026-03-25 02:36:52,Open
+TKT0723,CUST0063,Refund,Description for issue 723...,Low,2026-03-21 02:36:52,Resolved
+TKT0724,CUST0680,General Inquiry,Description for issue 724...,Medium,2026-03-30 02:36:52,Resolved
+TKT0725,CUST0283,General Inquiry,Description for issue 725...,High,2026-03-21 02:36:52,Open
+TKT0726,CUST0965,Account Access,Description for issue 726...,Medium,2026-04-03 02:36:52,Closed
+TKT0727,CUST0315,Account Access,Description for issue 727...,Medium,2026-03-27 02:36:52,In Progress
+TKT0728,CUST0657,Account Access,Description for issue 728...,High,2026-03-30 02:36:52,In Progress
+TKT0729,CUST0870,Payment Issue,Description for issue 729...,Medium,2026-03-23 02:36:52,Resolved
+TKT0730,CUST0838,Damaged Product,Description for issue 730...,Low,2026-04-11 02:36:52,Closed
+TKT0731,CUST0828,General Inquiry,Description for issue 731...,Medium,2026-03-25 02:36:52,Resolved
+TKT0732,CUST0005,Refund,Description for issue 732...,Urgent,2026-04-11 02:36:52,Open
+TKT0733,CUST0884,Account Access,Description for issue 733...,Urgent,2026-04-02 02:36:52,In Progress
+TKT0734,CUST0190,Payment Issue,Description for issue 734...,High,2026-04-15 02:36:52,Closed
+TKT0735,CUST0516,General Inquiry,Description for issue 735...,Medium,2026-03-25 02:36:52,Closed
+TKT0736,CUST0005,General Inquiry,Description for issue 736...,Urgent,2026-04-15 02:36:52,Closed
+TKT0737,CUST0867,Shipping,Description for issue 737...,High,2026-04-10 02:36:52,Closed
+TKT0738,CUST0524,Payment Issue,Description for issue 738...,Medium,2026-04-03 02:36:52,In Progress
+TKT0739,CUST0810,Damaged Product,Description for issue 739...,Medium,2026-04-11 02:36:52,In Progress
+TKT0740,CUST0038,Payment Issue,Description for issue 740...,Urgent,2026-03-26 02:36:52,In Progress
+TKT0741,CUST0252,Shipping,Description for issue 741...,Medium,2026-03-23 02:36:52,Open
+TKT0742,CUST0365,Shipping,Description for issue 742...,Urgent,2026-04-18 02:36:52,In Progress
+TKT0743,CUST0410,Account Access,Description for issue 743...,Urgent,2026-04-02 02:36:52,In Progress
+TKT0744,CUST0852,Damaged Product,Description for issue 744...,Low,2026-04-12 02:36:52,Open
+TKT0745,CUST0188,Account Access,Description for issue 745...,High,2026-04-10 02:36:52,Closed
+TKT0746,CUST0607,Damaged Product,Description for issue 746...,High,2026-03-27 02:36:52,In Progress
+TKT0747,CUST0944,Damaged Product,Description for issue 747...,Low,2026-03-31 02:36:52,Closed
+TKT0748,CUST0119,General Inquiry,Description for issue 748...,Medium,2026-04-15 02:36:52,Resolved
+TKT0749,CUST0565,Shipping,Description for issue 749...,Urgent,2026-04-08 02:36:52,Closed
+TKT0750,CUST0100,Account Access,Description for issue 750...,Low,2026-03-23 02:36:52,Closed
+TKT0751,CUST0411,Shipping,Description for issue 751...,Urgent,2026-04-06 02:36:52,Open
+TKT0752,CUST0190,Refund,Description for issue 752...,High,2026-04-07 02:36:52,In Progress
+TKT0753,CUST0746,Account Access,Description for issue 753...,Urgent,2026-04-05 02:36:52,Resolved
+TKT0754,CUST0822,Damaged Product,Description for issue 754...,Low,2026-04-10 02:36:52,In Progress
+TKT0755,CUST0214,General Inquiry,Description for issue 755...,Urgent,2026-04-08 02:36:52,Closed
+TKT0756,CUST0931,Refund,Description for issue 756...,Low,2026-04-16 02:36:52,In Progress
+TKT0757,CUST0014,Refund,Description for issue 757...,Low,2026-04-18 02:36:52,Closed
+TKT0758,CUST0809,General Inquiry,Description for issue 758...,Low,2026-03-30 02:36:52,Resolved
+TKT0759,CUST0005,Refund,Description for issue 759...,High,2026-04-19 02:36:52,Open
+TKT0760,CUST0898,Damaged Product,Description for issue 760...,Low,2026-04-01 02:36:52,Resolved
+TKT0761,CUST0378,General Inquiry,Description for issue 761...,Medium,2026-04-02 02:36:52,In Progress
+TKT0762,CUST0485,Shipping,Description for issue 762...,Low,2026-03-30 02:36:52,Resolved
+TKT0763,CUST0244,General Inquiry,Description for issue 763...,High,2026-04-14 02:36:52,Open
+TKT0764,CUST0221,Shipping,Description for issue 764...,Medium,2026-03-24 02:36:52,Open
+TKT0765,CUST0693,General Inquiry,Description for issue 765...,High,2026-03-26 02:36:52,Open
+TKT0766,CUST0475,Damaged Product,Description for issue 766...,Urgent,2026-04-16 02:36:52,Closed
+TKT0767,CUST0912,Payment Issue,Description for issue 767...,Low,2026-04-05 02:36:52,Open
+TKT0768,CUST0546,Shipping,Description for issue 768...,High,2026-04-14 02:36:52,Closed
+TKT0769,CUST0012,Payment Issue,Description for issue 769...,Low,2026-03-27 02:36:52,In Progress
+TKT0770,CUST0361,Account Access,Description for issue 770...,Low,2026-04-10 02:36:52,Open
+TKT0771,CUST0725,Account Access,Description for issue 771...,Low,2026-04-04 02:36:52,Open
+TKT0772,CUST0267,Damaged Product,Description for issue 772...,Low,2026-04-02 02:36:52,Resolved
+TKT0773,CUST0502,Damaged Product,Description for issue 773...,Urgent,2026-03-27 02:36:52,Closed
+TKT0774,CUST0801,Account Access,Description for issue 774...,Low,2026-04-12 02:36:52,Open
+TKT0775,CUST0899,Payment Issue,Description for issue 775...,Urgent,2026-03-27 02:36:52,Closed
+TKT0776,CUST0392,Payment Issue,Description for issue 776...,Urgent,2026-04-08 02:36:52,Closed
+TKT0777,CUST0675,Refund,Description for issue 777...,Urgent,2026-04-09 02:36:52,In Progress
+TKT0778,CUST0084,Payment Issue,Description for issue 778...,High,2026-04-01 02:36:52,In Progress
+TKT0779,CUST0277,Account Access,Description for issue 779...,High,2026-03-31 02:36:52,Closed
+TKT0780,CUST0941,Damaged Product,Description for issue 780...,High,2026-04-03 02:36:52,Closed
+TKT0781,CUST0641,General Inquiry,Description for issue 781...,Medium,2026-04-17 02:36:52,In Progress
+TKT0782,CUST0700,General Inquiry,Description for issue 782...,Urgent,2026-04-10 02:36:52,In Progress
+TKT0783,CUST0422,General Inquiry,Description for issue 783...,Medium,2026-04-14 02:36:52,Closed
+TKT0784,CUST0844,Shipping,Description for issue 784...,High,2026-04-20 02:36:52,Open
+TKT0785,CUST0416,General Inquiry,Description for issue 785...,Medium,2026-04-09 02:36:52,Resolved
+TKT0786,CUST0381,Refund,Description for issue 786...,Low,2026-04-08 02:36:52,In Progress
+TKT0787,CUST0030,Damaged Product,Description for issue 787...,Medium,2026-04-07 02:36:52,In Progress
+TKT0788,CUST0358,General Inquiry,Description for issue 788...,High,2026-03-26 02:36:52,Resolved
+TKT0789,CUST0135,General Inquiry,Description for issue 789...,Urgent,2026-04-09 02:36:52,Resolved
+TKT0790,CUST0045,Refund,Description for issue 790...,Medium,2026-04-08 02:36:52,Closed
+TKT0791,CUST0339,Damaged Product,Description for issue 791...,Urgent,2026-03-30 02:36:52,In Progress
+TKT0792,CUST0288,Payment Issue,Description for issue 792...,Medium,2026-03-31 02:36:52,In Progress
+TKT0793,CUST0201,Payment Issue,Description for issue 793...,Medium,2026-04-12 02:36:52,Closed
+TKT0794,CUST0264,Shipping,Description for issue 794...,Medium,2026-03-22 02:36:52,In Progress
+TKT0795,CUST0832,Refund,Description for issue 795...,High,2026-04-01 02:36:52,In Progress
+TKT0796,CUST0183,Damaged Product,Description for issue 796...,Low,2026-04-08 02:36:52,Closed
+TKT0797,CUST0165,Payment Issue,Description for issue 797...,Medium,2026-04-07 02:36:52,Open
+TKT0798,CUST0578,Shipping,Description for issue 798...,High,2026-04-07 02:36:52,Closed
+TKT0799,CUST0593,Account Access,Description for issue 799...,Medium,2026-04-03 02:36:52,Resolved
+TKT0800,CUST0640,Payment Issue,Description for issue 800...,High,2026-04-01 02:36:52,Resolved
+TKT0801,CUST0063,Shipping,Description for issue 801...,High,2026-04-08 02:36:52,Resolved
+TKT0802,CUST0577,Damaged Product,Description for issue 802...,Low,2026-04-06 02:36:52,Closed
+TKT0803,CUST0433,Shipping,Description for issue 803...,Urgent,2026-04-05 02:36:52,Open
+TKT0804,CUST0505,Payment Issue,Description for issue 804...,Urgent,2026-04-09 02:36:52,Resolved
+TKT0805,CUST0816,Account Access,Description for issue 805...,High,2026-03-29 02:36:52,Open
+TKT0806,CUST0899,Refund,Description for issue 806...,Medium,2026-04-02 02:36:52,Resolved
+TKT0807,CUST0484,Shipping,Description for issue 807...,Low,2026-03-23 02:36:52,In Progress
+TKT0808,CUST0868,Shipping,Description for issue 808...,Medium,2026-04-09 02:36:52,In Progress
+TKT0809,CUST0968,Shipping,Description for issue 809...,Medium,2026-04-06 02:36:52,Closed
+TKT0810,CUST0605,Account Access,Description for issue 810...,Low,2026-03-22 02:36:52,Closed
+TKT0811,CUST0031,Shipping,Description for issue 811...,Low,2026-04-17 02:36:52,Closed
+TKT0812,CUST0697,Shipping,Description for issue 812...,Medium,2026-04-17 02:36:52,In Progress
+TKT0813,CUST0122,Account Access,Description for issue 813...,High,2026-03-22 02:36:52,Closed
+TKT0814,CUST0745,General Inquiry,Description for issue 814...,Urgent,2026-04-03 02:36:52,In Progress
+TKT0815,CUST0645,Shipping,Description for issue 815...,Urgent,2026-04-18 02:36:52,Resolved
+TKT0816,CUST0514,Refund,Description for issue 816...,High,2026-04-12 02:36:52,Closed
+TKT0817,CUST0791,Payment Issue,Description for issue 817...,High,2026-04-10 02:36:52,Closed
+TKT0818,CUST0269,Payment Issue,Description for issue 818...,High,2026-04-08 02:36:52,Resolved
+TKT0819,CUST0693,Refund,Description for issue 819...,Medium,2026-03-27 02:36:52,Open
+TKT0820,CUST0935,Payment Issue,Description for issue 820...,Urgent,2026-04-17 02:36:52,In Progress
+TKT0821,CUST0839,Damaged Product,Description for issue 821...,Low,2026-04-14 02:36:52,In Progress
+TKT0822,CUST0724,Account Access,Description for issue 822...,Medium,2026-04-01 02:36:52,In Progress
+TKT0823,CUST0291,Damaged Product,Description for issue 823...,Low,2026-03-29 02:36:52,In Progress
+TKT0824,CUST0108,Refund,Description for issue 824...,Urgent,2026-04-15 02:36:52,Resolved
+TKT0825,CUST0467,General Inquiry,Description for issue 825...,Medium,2026-03-24 02:36:52,Open
+TKT0826,CUST0230,Shipping,Description for issue 826...,Urgent,2026-03-27 02:36:52,In Progress
+TKT0827,CUST0124,Account Access,Description for issue 827...,Urgent,2026-04-13 02:36:52,Resolved
+TKT0828,CUST0177,Payment Issue,Description for issue 828...,Urgent,2026-03-22 02:36:52,In Progress
+TKT0829,CUST0363,Payment Issue,Description for issue 829...,High,2026-04-01 02:36:52,In Progress
+TKT0830,CUST0720,Refund,Description for issue 830...,Low,2026-04-20 02:36:52,Resolved
+TKT0831,CUST0863,Account Access,Description for issue 831...,High,2026-03-23 02:36:52,Resolved
+TKT0832,CUST0246,Account Access,Description for issue 832...,Urgent,2026-04-01 02:36:52,Closed
+TKT0833,CUST0933,Shipping,Description for issue 833...,High,2026-04-04 02:36:52,Resolved
+TKT0834,CUST0928,Payment Issue,Description for issue 834...,High,2026-04-14 02:36:52,In Progress
+TKT0835,CUST0610,Account Access,Description for issue 835...,Urgent,2026-03-23 02:36:52,Resolved
+TKT0836,CUST0738,Shipping,Description for issue 836...,Medium,2026-04-20 02:36:52,Closed
+TKT0837,CUST0689,Shipping,Description for issue 837...,High,2026-03-27 02:36:52,Closed
+TKT0838,CUST0752,Refund,Description for issue 838...,Urgent,2026-03-27 02:36:52,In Progress
+TKT0839,CUST0062,Payment Issue,Description for issue 839...,High,2026-03-21 02:36:52,Open
+TKT0840,CUST0398,Payment Issue,Description for issue 840...,Medium,2026-03-31 02:36:52,Closed
+TKT0841,CUST0482,Payment Issue,Description for issue 841...,Urgent,2026-04-07 02:36:52,In Progress
+TKT0842,CUST0313,General Inquiry,Description for issue 842...,Urgent,2026-04-08 02:36:52,Resolved
+TKT0843,CUST0934,General Inquiry,Description for issue 843...,Urgent,2026-04-06 02:36:52,In Progress
+TKT0844,CUST0557,Damaged Product,Description for issue 844...,Low,2026-04-13 02:36:52,Closed
+TKT0845,CUST0131,Payment Issue,Description for issue 845...,Medium,2026-03-29 02:36:52,Open
+TKT0846,CUST0851,Payment Issue,Description for issue 846...,High,2026-03-24 02:36:52,Resolved
+TKT0847,CUST0315,Shipping,Description for issue 847...,Low,2026-04-14 02:36:52,In Progress
+TKT0848,CUST0574,Damaged Product,Description for issue 848...,Urgent,2026-04-05 02:36:52,Resolved
+TKT0849,CUST0286,Shipping,Description for issue 849...,Low,2026-03-28 02:36:52,In Progress
+TKT0850,CUST0319,Payment Issue,Description for issue 850...,Low,2026-03-29 02:36:52,Closed
+TKT0851,CUST0741,Damaged Product,Description for issue 851...,High,2026-03-22 02:36:52,In Progress
+TKT0852,CUST0463,Payment Issue,Description for issue 852...,Urgent,2026-04-15 02:36:52,Resolved
+TKT0853,CUST0470,General Inquiry,Description for issue 853...,High,2026-04-17 02:36:52,In Progress
+TKT0854,CUST0652,General Inquiry,Description for issue 854...,Urgent,2026-04-01 02:36:52,Closed
+TKT0855,CUST0276,General Inquiry,Description for issue 855...,High,2026-04-11 02:36:52,In Progress
+TKT0856,CUST0190,Refund,Description for issue 856...,Low,2026-04-09 02:36:52,Open
+TKT0857,CUST0638,Refund,Description for issue 857...,Medium,2026-04-11 02:36:52,Closed
+TKT0858,CUST0385,Damaged Product,Description for issue 858...,High,2026-03-23 02:36:52,Closed
+TKT0859,CUST0958,Payment Issue,Description for issue 859...,High,2026-03-25 02:36:52,In Progress
+TKT0860,CUST0122,Refund,Description for issue 860...,Low,2026-04-19 02:36:52,Closed
+TKT0861,CUST0458,Account Access,Description for issue 861...,High,2026-04-09 02:36:52,Open
+TKT0862,CUST0543,Account Access,Description for issue 862...,Medium,2026-03-23 02:36:52,Open
+TKT0863,CUST0731,Damaged Product,Description for issue 863...,High,2026-04-15 02:36:52,Open
+TKT0864,CUST0508,Account Access,Description for issue 864...,Medium,2026-04-04 02:36:52,In Progress
+TKT0865,CUST0959,Shipping,Description for issue 865...,Medium,2026-03-31 02:36:52,Open
+TKT0866,CUST0330,Shipping,Description for issue 866...,Low,2026-04-20 02:36:52,Resolved
+TKT0867,CUST0381,Payment Issue,Description for issue 867...,Medium,2026-04-02 02:36:52,Resolved
+TKT0868,CUST0685,Payment Issue,Description for issue 868...,High,2026-04-19 02:36:52,Resolved
+TKT0869,CUST0137,General Inquiry,Description for issue 869...,Medium,2026-04-11 02:36:52,Closed
+TKT0870,CUST0259,Payment Issue,Description for issue 870...,High,2026-03-26 02:36:52,Closed
+TKT0871,CUST0905,General Inquiry,Description for issue 871...,Urgent,2026-04-16 02:36:52,Resolved
+TKT0872,CUST0388,Payment Issue,Description for issue 872...,Medium,2026-03-31 02:36:52,Open
+TKT0873,CUST0929,Shipping,Description for issue 873...,Medium,2026-03-27 02:36:52,In Progress
+TKT0874,CUST0736,Payment Issue,Description for issue 874...,Urgent,2026-04-11 02:36:52,Closed
+TKT0875,CUST0870,Shipping,Description for issue 875...,High,2026-04-03 02:36:52,Resolved
+TKT0876,CUST0409,Account Access,Description for issue 876...,Urgent,2026-03-27 02:36:52,Closed
+TKT0877,CUST0366,Payment Issue,Description for issue 877...,High,2026-03-29 02:36:52,Resolved
+TKT0878,CUST0944,Shipping,Description for issue 878...,High,2026-04-19 02:36:52,Open
+TKT0879,CUST0381,Shipping,Description for issue 879...,Medium,2026-04-06 02:36:52,Resolved
+TKT0880,CUST0593,General Inquiry,Description for issue 880...,Urgent,2026-03-31 02:36:52,Resolved
+TKT0881,CUST0089,Payment Issue,Description for issue 881...,Medium,2026-03-26 02:36:52,Closed
+TKT0882,CUST0636,General Inquiry,Description for issue 882...,High,2026-03-23 02:36:52,Closed
+TKT0883,CUST0782,General Inquiry,Description for issue 883...,Medium,2026-03-31 02:36:52,Open
+TKT0884,CUST0822,Payment Issue,Description for issue 884...,Urgent,2026-04-12 02:36:52,Open
+TKT0885,CUST0441,Damaged Product,Description for issue 885...,Urgent,2026-03-30 02:36:52,Resolved
+TKT0886,CUST0757,Damaged Product,Description for issue 886...,Medium,2026-03-30 02:36:52,Closed
+TKT0887,CUST0337,Damaged Product,Description for issue 887...,Urgent,2026-04-11 02:36:52,Open
+TKT0888,CUST0645,Damaged Product,Description for issue 888...,Low,2026-03-24 02:36:52,Open
+TKT0889,CUST0325,Account Access,Description for issue 889...,Low,2026-04-12 02:36:52,Closed
+TKT0890,CUST0739,Damaged Product,Description for issue 890...,Medium,2026-03-29 02:36:52,In Progress
+TKT0891,CUST0683,Payment Issue,Description for issue 891...,High,2026-04-04 02:36:52,Closed
+TKT0892,CUST0510,Refund,Description for issue 892...,Low,2026-04-12 02:36:52,Closed
+TKT0893,CUST0451,Refund,Description for issue 893...,Urgent,2026-04-08 02:36:52,Resolved
+TKT0894,CUST0289,Account Access,Description for issue 894...,Medium,2026-04-04 02:36:52,Resolved
+TKT0895,CUST0063,Damaged Product,Description for issue 895...,Low,2026-03-29 02:36:52,Open
+TKT0896,CUST0204,General Inquiry,Description for issue 896...,High,2026-04-18 02:36:52,Closed
+TKT0897,CUST0415,General Inquiry,Description for issue 897...,Low,2026-03-25 02:36:52,Closed
+TKT0898,CUST0304,General Inquiry,Description for issue 898...,Medium,2026-03-23 02:36:52,Closed
+TKT0899,CUST0641,Payment Issue,Description for issue 899...,Urgent,2026-04-19 02:36:52,In Progress
+TKT0900,CUST0351,Payment Issue,Description for issue 900...,High,2026-03-30 02:36:52,Closed
+TKT0901,CUST0605,Shipping,Description for issue 901...,Medium,2026-04-06 02:36:52,In Progress
+TKT0902,CUST0527,Refund,Description for issue 902...,Urgent,2026-04-16 02:36:52,Open
+TKT0903,CUST0471,Account Access,Description for issue 903...,Medium,2026-04-02 02:36:52,Closed
+TKT0904,CUST0867,Shipping,Description for issue 904...,Medium,2026-04-18 02:36:52,Resolved
+TKT0905,CUST0445,Account Access,Description for issue 905...,Low,2026-04-14 02:36:52,Open
+TKT0906,CUST0836,Damaged Product,Description for issue 906...,Urgent,2026-04-14 02:36:52,Open
+TKT0907,CUST0566,Refund,Description for issue 907...,Low,2026-04-02 02:36:52,In Progress
+TKT0908,CUST0625,Damaged Product,Description for issue 908...,Urgent,2026-03-26 02:36:52,Resolved
+TKT0909,CUST0561,Account Access,Description for issue 909...,Medium,2026-03-23 02:36:52,In Progress
+TKT0910,CUST0760,Damaged Product,Description for issue 910...,Medium,2026-04-11 02:36:52,Open
+TKT0911,CUST0358,Account Access,Description for issue 911...,Medium,2026-04-04 02:36:52,Resolved
+TKT0912,CUST0658,General Inquiry,Description for issue 912...,Medium,2026-03-28 02:36:52,Closed
+TKT0913,CUST0412,Payment Issue,Description for issue 913...,High,2026-03-23 02:36:52,Resolved
+TKT0914,CUST0536,Refund,Description for issue 914...,Low,2026-04-19 02:36:52,Closed
+TKT0915,CUST0096,Damaged Product,Description for issue 915...,Urgent,2026-03-23 02:36:52,In Progress
+TKT0916,CUST0143,Account Access,Description for issue 916...,Medium,2026-04-05 02:36:52,Resolved
+TKT0917,CUST0491,Shipping,Description for issue 917...,Medium,2026-03-27 02:36:52,Closed
+TKT0918,CUST0799,Payment Issue,Description for issue 918...,Low,2026-04-04 02:36:52,Resolved
+TKT0919,CUST0864,Payment Issue,Description for issue 919...,Urgent,2026-04-12 02:36:52,Resolved
+TKT0920,CUST0548,Refund,Description for issue 920...,Urgent,2026-04-19 02:36:52,Open
+TKT0921,CUST0020,Damaged Product,Description for issue 921...,High,2026-04-20 02:36:52,Closed
+TKT0922,CUST0457,Refund,Description for issue 922...,Urgent,2026-03-31 02:36:52,In Progress
+TKT0923,CUST0956,Shipping,Description for issue 923...,Medium,2026-04-12 02:36:52,Resolved
+TKT0924,CUST0769,General Inquiry,Description for issue 924...,Urgent,2026-03-27 02:36:52,Open
+TKT0925,CUST0543,General Inquiry,Description for issue 925...,Medium,2026-03-22 02:36:52,In Progress
+TKT0926,CUST0402,Damaged Product,Description for issue 926...,High,2026-03-25 02:36:52,Resolved
+TKT0927,CUST0246,Shipping,Description for issue 927...,Medium,2026-04-04 02:36:52,In Progress
+TKT0928,CUST0071,General Inquiry,Description for issue 928...,Medium,2026-03-23 02:36:52,Open
+TKT0929,CUST0593,Shipping,Description for issue 929...,Urgent,2026-04-08 02:36:52,In Progress
+TKT0930,CUST0142,Account Access,Description for issue 930...,Low,2026-04-07 02:36:52,Resolved
+TKT0931,CUST0460,General Inquiry,Description for issue 931...,Low,2026-04-16 02:36:52,Open
+TKT0932,CUST0700,Shipping,Description for issue 932...,Medium,2026-03-24 02:36:52,Closed
+TKT0933,CUST0337,Payment Issue,Description for issue 933...,Low,2026-04-17 02:36:52,In Progress
+TKT0934,CUST0680,Shipping,Description for issue 934...,Low,2026-03-22 02:36:52,Resolved
+TKT0935,CUST0928,Account Access,Description for issue 935...,High,2026-04-12 02:36:52,Open
+TKT0936,CUST0092,General Inquiry,Description for issue 936...,High,2026-04-11 02:36:52,Open
+TKT0937,CUST0164,Shipping,Description for issue 937...,High,2026-03-23 02:36:52,In Progress
+TKT0938,CUST0967,Refund,Description for issue 938...,Urgent,2026-04-09 02:36:52,In Progress
+TKT0939,CUST0412,General Inquiry,Description for issue 939...,Low,2026-04-05 02:36:52,In Progress
+TKT0940,CUST0260,Refund,Description for issue 940...,Medium,2026-04-05 02:36:52,In Progress
+TKT0941,CUST0562,Shipping,Description for issue 941...,High,2026-04-04 02:36:52,In Progress
+TKT0942,CUST0719,Account Access,Description for issue 942...,Urgent,2026-04-17 02:36:52,Closed
+TKT0943,CUST0497,Damaged Product,Description for issue 943...,Urgent,2026-04-09 02:36:52,Open
+TKT0944,CUST0933,Account Access,Description for issue 944...,Low,2026-03-24 02:36:52,Resolved
+TKT0945,CUST0190,Refund,Description for issue 945...,Urgent,2026-03-29 02:36:52,Open
+TKT0946,CUST0935,Refund,Description for issue 946...,Low,2026-04-14 02:36:52,Resolved
+TKT0947,CUST0923,General Inquiry,Description for issue 947...,Urgent,2026-04-12 02:36:52,In Progress
+TKT0948,CUST0277,Refund,Description for issue 948...,Urgent,2026-03-21 02:36:52,Open
+TKT0949,CUST0583,Payment Issue,Description for issue 949...,Medium,2026-04-15 02:36:52,Open
+TKT0950,CUST0136,Payment Issue,Description for issue 950...,High,2026-04-17 02:36:52,Resolved
+TKT0951,CUST0521,Refund,Description for issue 951...,High,2026-03-29 02:36:52,Closed
+TKT0952,CUST0451,Refund,Description for issue 952...,Low,2026-03-31 02:36:52,Closed
+TKT0953,CUST0740,Payment Issue,Description for issue 953...,Medium,2026-03-30 02:36:52,In Progress
+TKT0954,CUST0733,General Inquiry,Description for issue 954...,Urgent,2026-03-21 02:36:52,Closed
+TKT0955,CUST0974,Payment Issue,Description for issue 955...,High,2026-04-19 02:36:52,Resolved
+TKT0956,CUST0564,Refund,Description for issue 956...,Urgent,2026-03-31 02:36:52,In Progress
+TKT0957,CUST0231,Account Access,Description for issue 957...,Low,2026-04-13 02:36:52,In Progress
+TKT0958,CUST0455,Account Access,Description for issue 958...,Medium,2026-04-03 02:36:52,Closed
+TKT0959,CUST0548,Refund,Description for issue 959...,Urgent,2026-03-27 02:36:52,Open
+TKT0960,CUST0576,General Inquiry,Description for issue 960...,Low,2026-04-17 02:36:52,Resolved
+TKT0961,CUST0041,Payment Issue,Description for issue 961...,High,2026-04-10 02:36:52,Open
+TKT0962,CUST0035,General Inquiry,Description for issue 962...,Urgent,2026-04-08 02:36:52,In Progress
+TKT0963,CUST0502,Refund,Description for issue 963...,Urgent,2026-04-16 02:36:52,Open
+TKT0964,CUST0140,Refund,Description for issue 964...,High,2026-03-28 02:36:52,In Progress
+TKT0965,CUST0667,Payment Issue,Description for issue 965...,Low,2026-04-02 02:36:52,Resolved
+TKT0966,CUST0094,Shipping,Description for issue 966...,Urgent,2026-04-08 02:36:52,Open
+TKT0967,CUST0066,Shipping,Description for issue 967...,High,2026-03-23 02:36:52,Resolved
+TKT0968,CUST0628,Account Access,Description for issue 968...,Urgent,2026-04-12 02:36:52,In Progress
+TKT0969,CUST0728,Payment Issue,Description for issue 969...,Low,2026-04-15 02:36:52,Resolved
+TKT0970,CUST0497,Shipping,Description for issue 970...,Low,2026-04-01 02:36:52,In Progress
+TKT0971,CUST0312,Shipping,Description for issue 971...,Medium,2026-04-08 02:36:52,Open
+TKT0972,CUST0904,General Inquiry,Description for issue 972...,High,2026-03-24 02:36:52,Closed
+TKT0973,CUST0909,Account Access,Description for issue 973...,High,2026-04-14 02:36:52,Closed
+TKT0974,CUST0719,Account Access,Description for issue 974...,Urgent,2026-04-15 02:36:52,Closed
+TKT0975,CUST0300,Damaged Product,Description for issue 975...,High,2026-03-30 02:36:52,Open
+TKT0976,CUST0486,Account Access,Description for issue 976...,High,2026-04-01 02:36:52,In Progress
+TKT0977,CUST0065,Damaged Product,Description for issue 977...,High,2026-03-22 02:36:52,Open
+TKT0978,CUST0048,Damaged Product,Description for issue 978...,High,2026-03-27 02:36:52,In Progress
+TKT0979,CUST0829,Shipping,Description for issue 979...,Urgent,2026-04-11 02:36:52,Open
+TKT0980,CUST0206,Account Access,Description for issue 980...,Low,2026-04-01 02:36:52,Closed
+TKT0981,CUST0757,Shipping,Description for issue 981...,Medium,2026-03-26 02:36:52,Closed
+TKT0982,CUST0833,Payment Issue,Description for issue 982...,Medium,2026-03-31 02:36:52,Resolved
+TKT0983,CUST0976,Refund,Description for issue 983...,Medium,2026-04-03 02:36:52,Closed
+TKT0984,CUST0551,General Inquiry,Description for issue 984...,Medium,2026-04-19 02:36:52,In Progress
+TKT0985,CUST0334,General Inquiry,Description for issue 985...,Medium,2026-03-29 02:36:52,In Progress
+TKT0986,CUST0139,Payment Issue,Description for issue 986...,Low,2026-04-01 02:36:52,Open
+TKT0987,CUST0917,Refund,Description for issue 987...,Urgent,2026-04-08 02:36:52,Resolved
+TKT0988,CUST0788,General Inquiry,Description for issue 988...,High,2026-03-22 02:36:52,Open
+TKT0989,CUST0264,Account Access,Description for issue 989...,Low,2026-04-02 02:36:52,Open
+TKT0990,CUST0303,Refund,Description for issue 990...,High,2026-03-31 02:36:52,Resolved
+TKT0991,CUST0246,Damaged Product,Description for issue 991...,Low,2026-04-20 02:36:52,Open
+TKT0992,CUST0948,Payment Issue,Description for issue 992...,Low,2026-03-22 02:36:52,In Progress
+TKT0993,CUST0619,Account Access,Description for issue 993...,Urgent,2026-04-04 02:36:52,Resolved
+TKT0994,CUST0980,Refund,Description for issue 994...,Medium,2026-04-11 02:36:52,Closed
+TKT0995,CUST0469,Shipping,Description for issue 995...,High,2026-04-15 02:36:52,Closed
+TKT0996,CUST0961,General Inquiry,Description for issue 996...,Urgent,2026-03-26 02:36:52,Resolved
+TKT0997,CUST0318,General Inquiry,Description for issue 997...,Medium,2026-03-24 02:36:52,Closed
+TKT0998,CUST0636,Damaged Product,Description for issue 998...,Urgent,2026-03-25 02:36:52,Resolved
+TKT0999,CUST0706,Shipping,Description for issue 999...,Medium,2026-04-14 02:36:52,Closed
+TKT1000,CUST0909,Shipping,Description for issue 1000...,Medium,2026-04-13 02:36:52,In Progress

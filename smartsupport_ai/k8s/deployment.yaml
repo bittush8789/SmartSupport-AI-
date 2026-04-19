@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: smartsupport-backend
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: smartsupport-backend
+  template:
+    metadata:
+      labels:
+        app: smartsupport-backend
+    spec:
+      containers:
+      - name: backend
+        image: smartsupport-backend:latest
+        ports:
+        - containerPort: 8000
+        env:
+        - name: DATABASE_URL
+          valueFrom:
+            secretKeyRef:
+              name: db-secrets
+              key: url
+        - name: GEMINI_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: gemini-secrets
+              key: api-key
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: smartsupport-backend-service
+spec:
+  selector:
+    app: smartsupport-backend
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 8000
+  type: LoadBalancer

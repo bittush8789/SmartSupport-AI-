@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartSupport AI | Enterprise Dashboard</title>
+    <link rel="stylesheet" href="enterprise_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="sidebar">
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 40px;">
+            <div style="background: var(--primary); padding: 8px; border-radius: 8px;">
+                <i data-lucide="bot" style="color: white;"></i>
+            </div>
+            <h2 style="font-size: 1.25rem; font-weight: 700;">SmartSupport <span style="color: var(--accent);">AI</span></h2>
+        </div>
+        
+        <div style="flex: 1;">
+            <div style="padding: 12px; background: rgba(99, 102, 241, 0.1); border-radius: 8px; border: 1px solid rgba(99, 102, 241, 0.2); display: flex; align-items: center; gap: 12px; margin-bottom: 12px; cursor: pointer;">
+                <i data-lucide="message-square" size="18" style="color: var(--primary);"></i>
+                <span style="font-weight: 600; font-size: 14px;">Active Chat</span>
+            </div>
+            <div style="padding: 12px; display: flex; align-items: center; gap: 12px; color: var(--text-muted); cursor: pointer;">
+                <i data-lucide="shield-check" size="18"></i>
+                <span style="font-size: 14px;">Escalations</span>
+            </div>
+            <div style="padding: 12px; display: flex; align-items: center; gap: 12px; color: var(--text-muted); cursor: pointer;">
+                <i data-lucide="activity" size="18"></i>
+                <span style="font-size: 14px;">Analytics</span>
+            </div>
+        </div>
+
+        <div style="border-top: 1px solid #334155; pt: 20px; display: flex; align-items: center; gap: 12px; margin-top: auto;">
+            <div style="width: 40px; height: 40px; border-radius: 50%; background: #334155; display: flex; align-items: center; justify-content: center;">
+                <i data-lucide="user" size="20"></i>
+            </div>
+            <div>
+                <p style="font-weight: 700; font-size: 14px; margin: 0;">VIP Customer</p>
+                <p style="font-size: 12px; color: var(--text-muted); margin: 0;">CUST0001</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="chat-container">
+        <header class="glass-header">
+            <div style="display: flex; align-items: center; gap: 10px;">
+                <div style="width: 8px; height: 8px; background: #10b981; border-radius: 50%; box-shadow: 0 0 8px #10b981;"></div>
+                <span style="font-size: 13px; font-weight: 600; color: var(--text-muted);">ENTERPRISE ENGINE V2.0 - ACTIVE</span>
+            </div>
+            <button style="background: #1e293b; border: 1px solid #334155; color: var(--text-muted); padding: 6px 12px; border-radius: 6px; font-size: 11px; font-weight: 700; cursor: pointer;">EXPORT TRACE</button>
+        </header>
+
+        <div id="messageArea" class="message-area">
+            <div class="message bot">
+                <span style="font-size: 10px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px;">SmartSupport AI</span>
+                <p style="margin: 8px 0 0 0;">Hello! I am your enterprise-grade support assistant. How can I assist you with your orders or technical issues today?</p>
+            </div>
+        </div>
+
+        <div class="input-wrapper">
+            <div class="input-box">
+                <button style="background: transparent; border: none; padding: 0 10px; color: var(--text-muted); cursor: pointer;">
+                    <i data-lucide="paperclip" size="20"></i>
+                </button>
+                <input type="text" id="userInput" placeholder="Type your message here..." autocomplete="off">
+                <button id="sendBtn" style="background: var(--primary); border: none; width: 44px; height: 44px; border-radius: 12px; color: white; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s;">
+                    <i data-lucide="send" size="20"></i>
+                </button>
+            </div>
+            <p style="text-align: center; font-size: 9px; color: #475569; margin-top: 15px; letter-spacing: 2px; font-weight: 700; text-transform: uppercase;">Powered by Multi-Model Agentic RAG • local-registry.kind.local</p>
+        </div>
+    </div>
+
+    <script>
+        lucide.createIcons();
+
+        const messageArea = document.getElementById('messageArea');
+        const userInput = document.getElementById('userInput');
+        const sendBtn = document.getElementById('sendBtn');
+
+        async function sendMessage() {
+            const message = userInput.value.trim();
+            if (!message) return;
+
+            // Add user message
+            addMessage(message, 'user', 'You');
+            userInput.value = '';
+
+            try {
+                const formData = new FormData();
+                formData.append('customer_id', 'CUST0001');
+                formData.append('message', message);
+
+                const response = await fetch('http://localhost:8000/api/v1/chat', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+                addMessage(data.response, 'bot', data.agent || 'SmartSupport AI');
+            } catch (error) {
+                addMessage('Connection error. Is the enterprise server running?', 'bot', 'System Error');
+            }
+        }
+
+        function addMessage(content, role, agentName) {
+            const msgDiv = document.createElement('div');
+            msgDiv.className = `message ${role}`;
+            msgDiv.innerHTML = `
+                <span style="font-size: 10px; font-weight: 700; color: ${role === 'user' ? 'rgba(255,255,255,0.7)' : 'var(--text-muted)'}; text-transform: uppercase; letter-spacing: 1px;">${agentName}</span>
+                <p style="margin: 8px 0 0 0;">${content}</p>
+            `;
+            messageArea.appendChild(msgDiv);
+            messageArea.scrollTop = messageArea.scrollHeight;
+        }
+
+        sendBtn.addEventListener('click', sendMessage);
+        userInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendMessage();
+        });
+    </script>
+</body>
+</html>

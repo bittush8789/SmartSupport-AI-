@@ -1,0 +1,82 @@
+name: SmartSupport Enterprise CI/CD
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  security_scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Bandit (SAST)
+        run: |
+          pip install bandit
+          bandit -r smartsupport_ai/
+      - name: Run Safety (Dependency Scan)
+        run: |
+          pip install safety
+          safety check
+
+  test_and_build:
+    needs: security_scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Run Unit Tests
+        run: |
+          pip install -r smartsupport_ai/requirements.txt pytest
+          pytest
+          
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+        
+      - name: Build Backend Image
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          file: backend.Dockerfile
+          tags: smartsupport-backend:latest
+          outputs: type=docker,dest=/tmp/backend.tar
+          
+      - name: Trivy Image Scan
+        uses: aquasecurity/trivy-action@master
+        with:
+          input: /tmp/backend.tar
+          format: 'table'
+          exit-code: '1'
+          ignore-unfixed: true
+          severity: 'CRITICAL,HIGH'
+
+  deploy_to_kind:
+    needs: test_and_build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Create KIND Cluster
+        uses: helm/kind-action@v1.4.0
+        with:
+          config: infra/kind-config.yaml
+          
+      - name: Load Image into KIND
+        run: |
+          kind load docker-image smartsupport-backend:latest --name smartsupport-cluster
+          
+      - name: Deploy to K8s
+        run: |
+          kubectl apply -f k8s/namespace.yaml
+          kubectl apply -f k8s/config.yaml
+          kubectl apply -f k8s/backend-deployment.yaml
+          
+      - name: Verify Deployment
+        run: |
+          kubectl rollout status deployment/backend -n smartsupport-prod --timeout=60s

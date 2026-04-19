@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: smartsupport-prod
+  labels:
+    name: smartsupport-prod
+    security: high

@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock,warranty
+PROD001,Product 1,Books,713.07,851,10 months
+PROD002,Product 2,Beauty,455.34,893,20 months
+PROD003,Product 3,Beauty,1628.26,647,9 months
+PROD004,Product 4,Toys,1244.99,454,15 months
+PROD005,Product 5,Electronics,1122.36,214,6 months
+PROD006,Product 6,Clothing,974.01,425,15 months
+PROD007,Product 7,Electronics,1694.96,640,17 months
+PROD008,Product 8,Sports,907.36,620,19 months
+PROD009,Product 9,Beauty,255.43,509,15 months
+PROD010,Product 10,Home & Kitchen,1786.46,118,12 months
+PROD011,Product 11,Electronics,1544.06,369,12 months
+PROD012,Product 12,Electronics,1194.79,695,14 months
+PROD013,Product 13,Home & Kitchen,270.94,710,12 months
+PROD014,Product 14,Electronics,1245.06,711,11 months
+PROD015,Product 15,Clothing,572.91,488,6 months
+PROD016,Product 16,Beauty,120.46,317,20 months
+PROD017,Product 17,Beauty,1302.85,465,8 months
+PROD018,Product 18,Books,1777.03,239,23 months
+PROD019,Product 19,Clothing,510.26,924,21 months
+PROD020,Product 20,Clothing,1383.97,561,12 months
+PROD021,Product 21,Home & Kitchen,98.55,666,11 months
+PROD022,Product 22,Beauty,1108.43,168,9 months
+PROD023,Product 23,Electronics,71.4,460,8 months
+PROD024,Product 24,Clothing,1446.66,487,6 months
+PROD025,Product 25,Home & Kitchen,1874.77,808,7 months
+PROD026,Product 26,Toys,1243.75,479,22 months
+PROD027,Product 27,Clothing,894.52,884,22 months
+PROD028,Product 28,Books,550.3,984,19 months
+PROD029,Product 29,Electronics,1214.98,404,6 months
+PROD030,Product 30,Clothing,240.97,39,10 months
+PROD031,Product 31,Electronics,1064.93,528,23 months
+PROD032,Product 32,Clothing,1109.7,607,6 months
+PROD033,Product 33,Beauty,607.61,186,10 months
+PROD034,Product 34,Books,1730.04,920,18 months
+PROD035,Product 35,Books,874.39,476,10 months
+PROD036,Product 36,Home & Kitchen,63.79,454,13 months
+PROD037,Product 37,Books,1048.48,131,24 months
+PROD038,Product 38,Books,851.34,422,21 months
+PROD039,Product 39,Toys,317.26,117,10 months
+PROD040,Product 40,Books,1428.18,928,13 months
+PROD041,Product 41,Toys,1781.19,619,10 months
+PROD042,Product 42,Sports,119.86,228,17 months
+PROD043,Product 43,Clothing,259.19,930,17 months
+PROD044,Product 44,Home & Kitchen,49.41,575,16 months
+PROD045,Product 45,Toys,449.73,878,9 months
+PROD046,Product 46,Clothing,1241.8,203,11 months
+PROD047,Product 47,Books,1619.93,550,17 months
+PROD048,Product 48,Beauty,1199.81,943,7 months
+PROD049,Product 49,Books,1908.15,158,9 months
+PROD050,Product 50,Toys,539.23,848,20 months
+PROD051,Product 51,Home & Kitchen,1173.52,931,21 months
+PROD052,Product 52,Toys,292.42,248,13 months
+PROD053,Product 53,Clothing,541.61,529,21 months
+PROD054,Product 54,Electronics,1654.69,801,13 months
+PROD055,Product 55,Electronics,984.85,291,24 months
+PROD056,Product 56,Electronics,584.07,471,24 months
+PROD057,Product 57,Sports,131.93,390,16 months
+PROD058,Product 58,Books,1330.77,325,20 months
+PROD059,Product 59,Sports,1428.66,143,21 months
+PROD060,Product 60,Electronics,1475.95,605,14 months
+PROD061,Product 61,Sports,75.16,475,7 months
+PROD062,Product 62,Beauty,1538.24,153,19 months
+PROD063,Product 63,Home & Kitchen,917.36,770,24 months
+PROD064,Product 64,Sports,1692.18,315,8 months
+PROD065,Product 65,Clothing,1743.24,657,12 months
+PROD066,Product 66,Home & Kitchen,1639.74,455,20 months
+PROD067,Product 67,Electronics,446.28,697,18 months
+PROD068,Product 68,Toys,1489.62,539,21 months
+PROD069,Product 69,Toys,63.43,638,21 months
+PROD070,Product 70,Beauty,269.96,175,12 months
+PROD071,Product 71,Home & Kitchen,904.31,503,6 months
+PROD072,Product 72,Electronics,1875.19,505,22 months
+PROD073,Product 73,Electronics,674.24,416,12 months
+PROD074,Product 74,Sports,335.16,163,23 months
+PROD075,Product 75,Beauty,356.15,799,22 months
+PROD076,Product 76,Electronics,1070.08,838,23 months
+PROD077,Product 77,Beauty,1431.95,659,16 months
+PROD078,Product 78,Books,1766.48,145,20 months
+PROD079,Product 79,Sports,811.03,81,20 months
+PROD080,Product 80,Electronics,198.17,124,12 months
+PROD081,Product 81,Books,1550.01,278,12 months
+PROD082,Product 82,Home & Kitchen,820.33,479,17 months
+PROD083,Product 83,Clothing,1990.77,592,6 months
+PROD084,Product 84,Beauty,904.46,17,7 months
+PROD085,Product 85,Books,673.7,761,24 months
+PROD086,Product 86,Home & Kitchen,1976.25,109,15 months
+PROD087,Product 87,Beauty,575.73,673,13 months
+PROD088,Product 88,Home & Kitchen,606.74,792,6 months
+PROD089,Product 89,Clothing,1464.79,685,6 months
+PROD090,Product 90,Toys,1689.09,6,24 months
+PROD091,Product 91,Electronics,718.93,635,10 months
+PROD092,Product 92,Clothing,1538.58,424,8 months
+PROD093,Product 93,Clothing,429.79,414,14 months
+PROD094,Product 94,Electronics,1622.48,863,19 months
+PROD095,Product 95,Toys,1503.58,865,19 months
+PROD096,Product 96,Sports,1567.41,770,18 months
+PROD097,Product 97,Books,1883.38,640,21 months
+PROD098,Product 98,Beauty,421.26,84,7 months
+PROD099,Product 99,Clothing,450.81,573,21 months
+PROD100,Product 100,Beauty,1955.92,859,8 months
+PROD101,Product 101,Sports,1465.21,427,19 months
+PROD102,Product 102,Sports,1910.79,788,13 months
+PROD103,Product 103,Home & Kitchen,1029.32,251,18 months
+PROD104,Product 104,Clothing,1055.03,843,21 months
+PROD105,Product 105,Electronics,1733.74,564,13 months
+PROD106,Product 106,Beauty,1124.18,880,18 months
+PROD107,Product 107,Electronics,1910.4,825,24 months
+PROD108,Product 108,Home & Kitchen,672.51,169,20 months
+PROD109,Product 109,Home & Kitchen,1848.63,618,10 months
+PROD110,Product 110,Home & Kitchen,825.58,784,23 months
+PROD111,Product 111,Toys,971.46,847,14 months
+PROD112,Product 112,Toys,391.72,641,21 months
+PROD113,Product 113,Books,375.03,651,21 months
+PROD114,Product 114,Clothing,719.46,123,8 months
+PROD115,Product 115,Electronics,1514.81,319,15 months
+PROD116,Product 116,Beauty,707.72,399,21 months
+PROD117,Product 117,Toys,1468.67,801,7 months
+PROD118,Product 118,Electronics,691.84,342,20 months
+PROD119,Product 119,Electronics,1332.21,27,8 months
+PROD120,Product 120,Beauty,724.99,402,15 months
+PROD121,Product 121,Toys,1549.83,806,9 months
+PROD122,Product 122,Clothing,874.7,672,12 months
+PROD123,Product 123,Clothing,318.8,945,24 months
+PROD124,Product 124,Sports,1986.35,447,17 months
+PROD125,Product 125,Beauty,1327.69,322,23 months
+PROD126,Product 126,Sports,708.45,615,24 months
+PROD127,Product 127,Clothing,1147.02,137,13 months
+PROD128,Product 128,Beauty,13.18,702,17 months
+PROD129,Product 129,Beauty,1869.02,802,15 months
+PROD130,Product 130,Home & Kitchen,1023.17,571,23 months
+PROD131,Product 131,Clothing,665.62,372,18 months
+PROD132,Product 132,Beauty,1722.81,270,13 months
+PROD133,Product 133,Toys,1271.53,863,10 months
+PROD134,Product 134,Beauty,295.99,931,12 months
+PROD135,Product 135,Clothing,517.22,90,24 months
+PROD136,Product 136,Home & Kitchen,1236.27,82,9 months
+PROD137,Product 137,Beauty,1208.13,235,7 months
+PROD138,Product 138,Beauty,947.84,548,14 months
+PROD139,Product 139,Electronics,793.08,116,6 months
+PROD140,Product 140,Home & Kitchen,935.34,484,11 months
+PROD141,Product 141,Beauty,1011.9,510,19 months
+PROD142,Product 142,Books,148.48,53,6 months
+PROD143,Product 143,Beauty,820.03,99,9 months
+PROD144,Product 144,Sports,1297.66,396,8 months
+PROD145,Product 145,Beauty,419.02,979,17 months
+PROD146,Product 146,Books,1927.32,638,22 months
+PROD147,Product 147,Clothing,360.88,242,9 months
+PROD148,Product 148,Beauty,1114.39,412,6 months
+PROD149,Product 149,Electronics,502.39,175,18 months
+PROD150,Product 150,Books,316.62,309,7 months
+PROD151,Product 151,Books,758.79,279,8 months
+PROD152,Product 152,Beauty,1234.36,903,20 months
+PROD153,Product 153,Electronics,248.28,302,17 months
+PROD154,Product 154,Sports,541.86,573,9 months
+PROD155,Product 155,Books,513.78,487,11 months
+PROD156,Product 156,Beauty,434.4,691,10 months
+PROD157,Product 157,Toys,1807.33,465,17 months
+PROD158,Product 158,Toys,1086.26,251,8 months
+PROD159,Product 159,Sports,1565.77,209,20 months
+PROD160,Product 160,Toys,1152.42,434,14 months
+PROD161,Product 161,Books,174.78,307,10 months
+PROD162,Product 162,Home & Kitchen,884.38,330,20 months
+PROD163,Product 163,Books,714.39,271,22 months
+PROD164,Product 164,Electronics,616.67,4,19 months
+PROD165,Product 165,Electronics,1148.17,372,17 months
+PROD166,Product 166,Toys,1755.74,788,15 months
+PROD167,Product 167,Beauty,1125.26,450,15 months
+PROD168,Product 168,Electronics,1332.96,421,14 months
+PROD169,Product 169,Sports,1332.41,314,10 months
+PROD170,Product 170,Electronics,1966.21,873,19 months
+PROD171,Product 171,Electronics,1749.39,978,21 months
+PROD172,Product 172,Books,823.2,266,15 months
+PROD173,Product 173,Sports,674.66,305,17 months
+PROD174,Product 174,Sports,1158.85,316,11 months
+PROD175,Product 175,Sports,1284.91,615,13 months
+PROD176,Product 176,Books,1450.07,997,18 months
+PROD177,Product 177,Clothing,113.2,602,13 months
+PROD178,Product 178,Clothing,840.99,334,12 months
+PROD179,Product 179,Books,597.02,384,9 months
+PROD180,Product 180,Toys,1678.51,867,14 months
+PROD181,Product 181,Home & Kitchen,1074.51,601,18 months
+PROD182,Product 182,Books,1727.34,121,11 months
+PROD183,Product 183,Toys,1364.31,358,12 months
+PROD184,Product 184,Toys,766.8,399,24 months
+PROD185,Product 185,Books,738.68,721,15 months
+PROD186,Product 186,Toys,912.26,517,13 months
+PROD187,Product 187,Sports,1426.01,211,10 months
+PROD188,Product 188,Books,1586.63,803,12 months
+PROD189,Product 189,Clothing,522.08,864,8 months
+PROD190,Product 190,Electronics,328.26,674,18 months
+PROD191,Product 191,Home & Kitchen,845.36,764,22 months
+PROD192,Product 192,Books,1971.2,947,19 months
+PROD193,Product 193,Sports,152.6,970,21 months
+PROD194,Product 194,Books,25.2,481,10 months
+PROD195,Product 195,Toys,1744.05,734,18 months
+PROD196,Product 196,Toys,965.02,243,10 months
+PROD197,Product 197,Home & Kitchen,430.0,395,20 months
+PROD198,Product 198,Sports,1234.98,253,16 months
+PROD199,Product 199,Toys,1675.13,877,15 months
+PROD200,Product 200,Sports,779.09,667,22 months
+PROD201,Product 201,Electronics,1772.39,46,22 months
+PROD202,Product 202,Toys,519.17,32,10 months
+PROD203,Product 203,Sports,527.77,806,17 months
+PROD204,Product 204,Clothing,1291.21,326,19 months
+PROD205,Product 205,Sports,1874.57,325,14 months
+PROD206,Product 206,Books,1410.44,47,23 months
+PROD207,Product 207,Electronics,1433.63,913,10 months
+PROD208,Product 208,Beauty,1534.27,525,7 months
+PROD209,Product 209,Home & Kitchen,1226.53,481,19 months
+PROD210,Product 210,Sports,535.85,994,19 months
+PROD211,Product 211,Books,1222.35,422,7 months
+PROD212,Product 212,Sports,512.32,841,18 months
+PROD213,Product 213,Home & Kitchen,1372.01,858,15 months
+PROD214,Product 214,Beauty,733.77,861,16 months
+PROD215,Product 215,Clothing,1127.9,527,13 months
+PROD216,Product 216,Beauty,841.96,261,21 months
+PROD217,Product 217,Clothing,893.02,462,14 months
+PROD218,Product 218,Electronics,1600.37,276,21 months
+PROD219,Product 219,Clothing,1320.35,400,7 months
+PROD220,Product 220,Electronics,1432.36,288,10 months
+PROD221,Product 221,Home & Kitchen,1514.44,542,18 months
+PROD222,Product 222,Electronics,1211.1,42,7 months
+PROD223,Product 223,Sports,1990.5,630,8 months
+PROD224,Product 224,Electronics,1924.29,146,12 months
+PROD225,Product 225,Sports,1736.44,622,22 months
+PROD226,Product 226,Sports,1649.31,593,18 months
+PROD227,Product 227,Beauty,1526.49,160,22 months
+PROD228,Product 228,Home & Kitchen,1712.34,427,19 months
+PROD229,Product 229,Books,1641.34,78,24 months
+PROD230,Product 230,Beauty,1319.76,968,12 months
+PROD231,Product 231,Books,194.39,168,16 months
+PROD232,Product 232,Toys,928.23,153,17 months
+PROD233,Product 233,Toys,791.77,429,14 months
+PROD234,Product 234,Beauty,806.67,619,16 months
+PROD235,Product 235,Clothing,1959.02,372,13 months
+PROD236,Product 236,Beauty,1154.55,771,10 months
+PROD237,Product 237,Toys,1844.6,970,6 months
+PROD238,Product 238,Clothing,542.89,770,14 months
+PROD239,Product 239,Beauty,1319.08,290,10 months
+PROD240,Product 240,Sports,1128.94,224,8 months
+PROD241,Product 241,Beauty,1274.97,428,21 months
+PROD242,Product 242,Beauty,528.64,785,20 months
+PROD243,Product 243,Sports,1123.08,54,10 months
+PROD244,Product 244,Electronics,1452.62,263,16 months
+PROD245,Product 245,Sports,755.47,843,9 months
+PROD246,Product 246,Home & Kitchen,1239.81,718,24 months
+PROD247,Product 247,Books,142.02,485,12 months
+PROD248,Product 248,Electronics,1149.62,968,21 months
+PROD249,Product 249,Clothing,1353.47,656,12 months
+PROD250,Product 250,Beauty,1953.41,367,7 months
+PROD251,Product 251,Clothing,221.44,923,9 months
+PROD252,Product 252,Electronics,567.56,618,22 months
+PROD253,Product 253,Beauty,60.99,864,10 months
+PROD254,Product 254,Toys,307.43,535,24 months
+PROD255,Product 255,Toys,283.34,749,10 months
+PROD256,Product 256,Clothing,1526.92,324,11 months
+PROD257,Product 257,Clothing,509.62,110,18 months
+PROD258,Product 258,Sports,373.27,790,9 months
+PROD259,Product 259,Sports,1089.29,580,20 months
+PROD260,Product 260,Home & Kitchen,772.62,210,9 months
+PROD261,Product 261,Toys,441.73,103,16 months
+PROD262,Product 262,Toys,1692.13,149,23 months
+PROD263,Product 263,Electronics,417.4,528,9 months
+PROD264,Product 264,Books,347.92,716,9 months
+PROD265,Product 265,Home & Kitchen,786.59,186,15 months
+PROD266,Product 266,Books,754.78,142,16 months
+PROD267,Product 267,Toys,728.68,594,13 months
+PROD268,Product 268,Clothing,910.91,553,21 months
+PROD269,Product 269,Clothing,1310.11,843,16 months
+PROD270,Product 270,Toys,332.42,625,9 months
+PROD271,Product 271,Home & Kitchen,1397.75,739,12 months
+PROD272,Product 272,Books,661.8,455,6 months
+PROD273,Product 273,Beauty,1863.27,644,19 months
+PROD274,Product 274,Books,162.92,706,9 months
+PROD275,Product 275,Books,1184.36,508,11 months
+PROD276,Product 276,Books,1332.2,525,9 months
+PROD277,Product 277,Clothing,185.8,799,13 months
+PROD278,Product 278,Home & Kitchen,528.88,713,9 months
+PROD279,Product 279,Books,260.82,534,20 months
+PROD280,Product 280,Books,412.19,721,14 months
+PROD281,Product 281,Beauty,1833.35,631,18 months
+PROD282,Product 282,Toys,108.61,837,21 months
+PROD283,Product 283,Books,334.42,929,20 months
+PROD284,Product 284,Beauty,1650.76,928,12 months
+PROD285,Product 285,Toys,1743.01,744,20 months
+PROD286,Product 286,Clothing,1884.47,148,24 months
+PROD287,Product 287,Sports,762.05,158,21 months
+PROD288,Product 288,Sports,302.0,499,15 months
+PROD289,Product 289,Electronics,1827.35,212,7 months
+PROD290,Product 290,Clothing,1092.09,438,7 months
+PROD291,Product 291,Sports,950.34,415,18 months
+PROD292,Product 292,Toys,1901.7,822,21 months
+PROD293,Product 293,Home & Kitchen,403.08,605,20 months
+PROD294,Product 294,Home & Kitchen,99.07,902,10 months
+PROD295,Product 295,Home & Kitchen,498.31,404,8 months
+PROD296,Product 296,Clothing,408.28,195,22 months
+PROD297,Product 297,Clothing,211.49,529,17 months
+PROD298,Product 298,Sports,1860.57,691,17 months
+PROD299,Product 299,Beauty,378.92,878,23 months
+PROD300,Product 300,Beauty,210.6,766,9 months
+PROD301,Product 301,Home & Kitchen,163.46,69,19 months
+PROD302,Product 302,Toys,558.31,420,14 months
+PROD303,Product 303,Home & Kitchen,1660.78,899,21 months
+PROD304,Product 304,Toys,1102.59,2,18 months
+PROD305,Product 305,Toys,496.07,429,16 months
+PROD306,Product 306,Beauty,1084.74,711,20 months
+PROD307,Product 307,Sports,1153.66,793,10 months
+PROD308,Product 308,Home & Kitchen,152.15,718,24 months
+PROD309,Product 309,Toys,358.75,797,13 months
+PROD310,Product 310,Clothing,770.24,628,16 months
+PROD311,Product 311,Beauty,1843.69,795,24 months
+PROD312,Product 312,Clothing,1183.92,847,15 months
+PROD313,Product 313,Clothing,767.41,193,18 months
+PROD314,Product 314,Clothing,1637.11,41,16 months
+PROD315,Product 315,Beauty,163.58,575,11 months
+PROD316,Product 316,Clothing,1036.28,373,17 months
+PROD317,Product 317,Sports,434.55,57,14 months
+PROD318,Product 318,Home & Kitchen,563.58,448,20 months
+PROD319,Product 319,Sports,1069.97,973,23 months
+PROD320,Product 320,Beauty,792.6,637,16 months
+PROD321,Product 321,Home & Kitchen,1828.42,866,12 months
+PROD322,Product 322,Home & Kitchen,1426.37,893,12 months
+PROD323,Product 323,Home & Kitchen,470.67,765,21 months
+PROD324,Product 324,Beauty,871.75,320,17 months
+PROD325,Product 325,Books,1959.5,494,13 months
+PROD326,Product 326,Beauty,666.01,163,22 months
+PROD327,Product 327,Toys,239.05,338,20 months
+PROD328,Product 328,Electronics,494.1,655,18 months
+PROD329,Product 329,Home & Kitchen,235.06,300,6 months
+PROD330,Product 330,Home & Kitchen,1478.64,266,19 months
+PROD331,Product 331,Beauty,318.04,653,6 months
+PROD332,Product 332,Electronics,357.31,558,12 months
+PROD333,Product 333,Books,1242.85,177,11 months
+PROD334,Product 334,Home & Kitchen,1811.94,352,6 months
+PROD335,Product 335,Toys,1335.89,922,14 months
+PROD336,Product 336,Sports,430.39,569,24 months
+PROD337,Product 337,Beauty,871.34,830,12 months
+PROD338,Product 338,Beauty,811.1,240,18 months
+PROD339,Product 339,Clothing,571.42,6,16 months
+PROD340,Product 340,Clothing,589.52,304,24 months
+PROD341,Product 341,Beauty,326.92,896,13 months
+PROD342,Product 342,Sports,934.6,150,16 months
+PROD343,Product 343,Books,503.11,715,10 months
+PROD344,Product 344,Electronics,403.79,214,12 months
+PROD345,Product 345,Beauty,89.96,831,12 months
+PROD346,Product 346,Books,157.48,255,8 months
+PROD347,Product 347,Toys,613.89,841,8 months
+PROD348,Product 348,Clothing,747.56,349,9 months
+PROD349,Product 349,Sports,1274.97,394,21 months
+PROD350,Product 350,Home & Kitchen,225.72,417,6 months
+PROD351,Product 351,Beauty,1721.68,357,12 months
+PROD352,Product 352,Electronics,1126.28,630,10 months
+PROD353,Product 353,Sports,1437.9,960,10 months
+PROD354,Product 354,Books,1673.43,885,17 months
+PROD355,Product 355,Electronics,1328.43,730,7 months
+PROD356,Product 356,Books,1435.15,335,7 months
+PROD357,Product 357,Beauty,325.5,252,18 months
+PROD358,Product 358,Clothing,331.97,335,22 months
+PROD359,Product 359,Clothing,1130.95,695,14 months
+PROD360,Product 360,Clothing,1064.66,737,19 months
+PROD361,Product 361,Sports,1143.93,843,15 months
+PROD362,Product 362,Beauty,1102.06,890,19 months
+PROD363,Product 363,Books,1242.25,194,9 months
+PROD364,Product 364,Clothing,176.56,87,8 months
+PROD365,Product 365,Books,1129.44,741,18 months
+PROD366,Product 366,Books,900.75,742,8 months
+PROD367,Product 367,Electronics,821.06,999,23 months
+PROD368,Product 368,Sports,65.39,913,6 months
+PROD369,Product 369,Electronics,774.43,306,9 months
+PROD370,Product 370,Toys,721.32,194,8 months
+PROD371,Product 371,Sports,665.21,866,21 months
+PROD372,Product 372,Beauty,646.34,468,17 months
+PROD373,Product 373,Books,132.67,813,23 months
+PROD374,Product 374,Toys,1621.69,570,16 months
+PROD375,Product 375,Clothing,850.8,783,14 months
+PROD376,Product 376,Beauty,76.21,574,13 months
+PROD377,Product 377,Toys,281.58,796,20 months
+PROD378,Product 378,Clothing,1473.11,472,16 months
+PROD379,Product 379,Beauty,816.77,818,14 months
+PROD380,Product 380,Home & Kitchen,1482.4,365,22 months
+PROD381,Product 381,Clothing,1306.61,635,12 months
+PROD382,Product 382,Electronics,154.99,708,11 months
+PROD383,Product 383,Home & Kitchen,141.74,318,10 months
+PROD384,Product 384,Sports,1429.19,142,8 months
+PROD385,Product 385,Toys,247.6,34,16 months
+PROD386,Product 386,Beauty,1037.68,777,21 months
+PROD387,Product 387,Beauty,411.5,262,17 months
+PROD388,Product 388,Toys,128.3,597,11 months
+PROD389,Product 389,Electronics,1727.42,930,12 months
+PROD390,Product 390,Toys,563.12,485,16 months
+PROD391,Product 391,Electronics,1341.85,600,18 months
+PROD392,Product 392,Toys,1816.56,542,13 months
+PROD393,Product 393,Beauty,352.36,170,23 months
+PROD394,Product 394,Sports,1137.74,146,15 months
+PROD395,Product 395,Clothing,446.5,856,19 months
+PROD396,Product 396,Toys,894.92,798,9 months
+PROD397,Product 397,Clothing,1599.86,297,9 months
+PROD398,Product 398,Sports,945.9,120,6 months
+PROD399,Product 399,Sports,729.93,354,23 months
+PROD400,Product 400,Home & Kitchen,1296.61,298,21 months
+PROD401,Product 401,Electronics,1522.56,857,9 months
+PROD402,Product 402,Sports,996.43,984,22 months
+PROD403,Product 403,Electronics,624.0,214,17 months
+PROD404,Product 404,Sports,1489.67,640,17 months
+PROD405,Product 405,Electronics,124.04,190,13 months
+PROD406,Product 406,Books,1133.61,646,20 months
+PROD407,Product 407,Sports,1219.95,985,8 months
+PROD408,Product 408,Clothing,698.79,844,14 months
+PROD409,Product 409,Books,1543.5,246,12 months
+PROD410,Product 410,Sports,1064.78,433,8 months
+PROD411,Product 411,Toys,1006.24,892,19 months
+PROD412,Product 412,Toys,59.29,151,9 months
+PROD413,Product 413,Books,781.59,518,9 months
+PROD414,Product 414,Clothing,829.3,784,22 months
+PROD415,Product 415,Beauty,1155.64,815,24 months
+PROD416,Product 416,Books,1000.27,494,21 months
+PROD417,Product 417,Beauty,1826.18,196,17 months
+PROD418,Product 418,Home & Kitchen,1080.02,322,9 months
+PROD419,Product 419,Home & Kitchen,946.88,376,15 months
+PROD420,Product 420,Sports,460.75,856,10 months
+PROD421,Product 421,Toys,1042.03,671,23 months
+PROD422,Product 422,Electronics,1029.67,866,16 months
+PROD423,Product 423,Books,853.86,811,15 months
+PROD424,Product 424,Electronics,105.65,26,6 months
+PROD425,Product 425,Books,1827.74,494,18 months
+PROD426,Product 426,Beauty,693.55,808,21 months
+PROD427,Product 427,Books,533.1,354,20 months
+PROD428,Product 428,Home & Kitchen,1816.06,570,6 months
+PROD429,Product 429,Electronics,971.63,938,16 months
+PROD430,Product 430,Toys,274.72,910,16 months
+PROD431,Product 431,Books,1200.14,959,23 months
+PROD432,Product 432,Electronics,703.16,683,10 months
+PROD433,Product 433,Electronics,378.97,184,22 months
+PROD434,Product 434,Beauty,714.12,22,24 months
+PROD435,Product 435,Home & Kitchen,852.78,937,7 months
+PROD436,Product 436,Home & Kitchen,1882.16,517,22 months
+PROD437,Product 437,Books,376.97,293,12 months
+PROD438,Product 438,Beauty,1002.78,75,13 months
+PROD439,Product 439,Books,691.69,415,8 months
+PROD440,Product 440,Sports,1419.35,192,15 months
+PROD441,Product 441,Toys,1379.54,340,7 months
+PROD442,Product 442,Clothing,1826.45,95,19 months
+PROD443,Product 443,Electronics,1490.84,949,10 months
+PROD444,Product 444,Books,1834.92,441,8 months
+PROD445,Product 445,Toys,1498.4,511,19 months
+PROD446,Product 446,Beauty,819.94,220,22 months
+PROD447,Product 447,Electronics,596.48,546,19 months
+PROD448,Product 448,Sports,1748.61,732,13 months
+PROD449,Product 449,Toys,868.73,723,6 months
+PROD450,Product 450,Sports,149.67,659,11 months
+PROD451,Product 451,Toys,676.34,267,6 months
+PROD452,Product 452,Sports,1489.85,639,10 months
+PROD453,Product 453,Clothing,315.09,440,18 months
+PROD454,Product 454,Sports,1020.1,968,13 months
+PROD455,Product 455,Toys,1712.63,443,12 months
+PROD456,Product 456,Beauty,1465.65,181,20 months
+PROD457,Product 457,Home & Kitchen,793.97,248,24 months
+PROD458,Product 458,Home & Kitchen,782.18,501,17 months
+PROD459,Product 459,Home & Kitchen,1393.82,153,8 months
+PROD460,Product 460,Beauty,992.79,806,23 months
+PROD461,Product 461,Toys,1006.42,471,15 months
+PROD462,Product 462,Clothing,199.83,997,8 months
+PROD463,Product 463,Electronics,1322.52,194,17 months
+PROD464,Product 464,Clothing,1132.46,272,18 months
+PROD465,Product 465,Beauty,1102.9,385,14 months
+PROD466,Product 466,Sports,1790.22,454,17 months
+PROD467,Product 467,Home & Kitchen,631.79,482,6 months
+PROD468,Product 468,Clothing,46.32,50,13 months
+PROD469,Product 469,Electronics,1532.38,38,14 months
+PROD470,Product 470,Electronics,1391.18,321,7 months
+PROD471,Product 471,Clothing,1185.38,450,10 months
+PROD472,Product 472,Beauty,1511.02,218,8 months
+PROD473,Product 473,Books,1272.81,797,11 months
+PROD474,Product 474,Books,609.97,950,14 months
+PROD475,Product 475,Books,1779.84,133,14 months
+PROD476,Product 476,Books,1988.57,727,17 months
+PROD477,Product 477,Home & Kitchen,53.44,310,18 months
+PROD478,Product 478,Sports,1999.85,985,16 months
+PROD479,Product 479,Home & Kitchen,1884.62,360,13 months
+PROD480,Product 480,Toys,1859.17,662,10 months
+PROD481,Product 481,Clothing,198.94,2,20 months
+PROD482,Product 482,Beauty,1817.89,947,18 months
+PROD483,Product 483,Home & Kitchen,1926.79,634,20 months
+PROD484,Product 484,Beauty,1796.13,292,14 months
+PROD485,Product 485,Toys,1259.78,243,14 months
+PROD486,Product 486,Home & Kitchen,1492.39,880,10 months
+PROD487,Product 487,Home & Kitchen,1922.96,541,11 months
+PROD488,Product 488,Home & Kitchen,1566.65,194,21 months
+PROD489,Product 489,Toys,493.07,261,16 months
+PROD490,Product 490,Home & Kitchen,1235.3,53,18 months
+PROD491,Product 491,Sports,435.77,856,19 months
+PROD492,Product 492,Toys,496.48,49,12 months
+PROD493,Product 493,Beauty,1128.86,117,20 months
+PROD494,Product 494,Books,1852.43,102,11 months
+PROD495,Product 495,Clothing,1803.87,324,9 months
+PROD496,Product 496,Toys,706.19,702,8 months
+PROD497,Product 497,Home & Kitchen,861.51,526,14 months
+PROD498,Product 498,Beauty,1655.56,790,19 months
+PROD499,Product 499,Clothing,649.67,866,17 months
+PROD500,Product 500,Beauty,806.21,287,17 months

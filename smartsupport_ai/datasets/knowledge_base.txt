@@ -1,0 +1,27 @@
+
+ShopEase Support Procedures:
+
+1. Order Tracking:
+   - Ask customer for Order ID.
+   - Look up in PostgreSQL orders table.
+   - Provide status (Shipped, Processing, etc.) and delivery date.
+
+2. Refund Process:
+   - Verify purchase within 30 days.
+   - Check if item is eligible for return.
+   - Initiate refund in the system.
+   - Inform customer it takes 5-7 business days.
+
+3. Damaged Product:
+   - Request photos of damage.
+   - Create a support ticket with priority High.
+   - Offer replacement or full refund.
+
+4. VIP Support:
+   - Identify customers with 'VIP' membership plan.
+   - Assign tickets to senior support agents immediately.
+   - Provide instant chat responses.
+
+5. Escalation Policy:
+   - If a ticket is unresolved for more than 48 hours, escalate to Manager.
+   - If customer sentiment is 'Angry', auto-create ticket and notify supervisor.
